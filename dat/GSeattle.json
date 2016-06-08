@@ -1,0 +1,1124 @@
+[
+  {
+    "zip": 98001,
+    "city": "Auburn",
+    "latitude": 47.303722,
+    "longitude": -122.26608
+  },
+  {
+    "zip": 98002,
+    "city": "Auburn",
+    "latitude": 47.304221,
+    "longitude": -122.21602
+  },
+  {
+    "zip": 98003,
+    "city": "Federal Way",
+    "latitude": 47.311072,
+    "longitude": -122.31188
+  },
+  {
+    "zip": 98004,
+    "city": "Bellevue",
+    "latitude": 47.618371,
+    "longitude": -122.20308
+  },
+  {
+    "zip": 98005,
+    "city": "Bellevue",
+    "latitude": 47.611021,
+    "longitude": -122.16858
+  },
+  {
+    "zip": 98006,
+    "city": "Bellevue",
+    "latitude": 47.562975,
+    "longitude": -122.1526
+  },
+  {
+    "zip": 98007,
+    "city": "Bellevue",
+    "latitude": 47.610935,
+    "longitude": -122.14104
+  },
+  {
+    "zip": 98008,
+    "city": "Bellevue",
+    "latitude": 47.609222,
+    "longitude": -122.1155
+  },
+  {
+    "zip": 98009,
+    "city": "Bellevue",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98011,
+    "city": "Bothell",
+    "latitude": 47.751471,
+    "longitude": -122.20257
+  },
+  {
+    "zip": 98012,
+    "city": "Bothell",
+    "latitude": 47.84311,
+    "longitude": -122.20457
+  },
+  {
+    "zip": 98015,
+    "city": "Bellevue",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98019,
+    "city": "Duvall",
+    "latitude": 47.7353,
+    "longitude": -121.96222
+  },
+  {
+    "zip": 98020,
+    "city": "Edmonds",
+    "latitude": 47.803668,
+    "longitude": -122.37096
+  },
+  {
+    "zip": 98021,
+    "city": "Bothell",
+    "latitude": 47.790653,
+    "longitude": -122.22021
+  },
+  {
+    "zip": 98022,
+    "city": "Enumclaw",
+    "latitude": 47.193729,
+    "longitude": -121.91915
+  },
+  {
+    "zip": 98023,
+    "city": "Federal Way",
+    "latitude": 47.309021,
+    "longitude": -122.36178
+  },
+  {
+    "zip": 98026,
+    "city": "Edmonds",
+    "latitude": 47.821568,
+    "longitude": -122.33651
+  },
+  {
+    "zip": 98027,
+    "city": "Issaquah",
+    "latitude": 47.522828,
+    "longitude": -122.02921
+  },
+  {
+    "zip": 98028,
+    "city": "Kenmore",
+    "latitude": 47.75287,
+    "longitude": -122.24736
+  },
+  {
+    "zip": 98029,
+    "city": "Issaquah",
+    "latitude": 47.572401,
+    "longitude": -122.02065
+  },
+  {
+    "zip": 98030,
+    "city": "Kent",
+    "latitude": 47.369098,
+    "longitude": -122.192276
+  },
+  {
+    "zip": 98031,
+    "city": "Kent",
+    "latitude": 47.388461,
+    "longitude": -122.19644
+  },
+  {
+    "zip": 98032,
+    "city": "Kent",
+    "latitude": 47.388254,
+    "longitude": -122.25932
+  },
+  {
+    "zip": 98033,
+    "city": "Kirkland",
+    "latitude": 47.67903,
+    "longitude": -122.1934
+  },
+  {
+    "zip": 98034,
+    "city": "Kirkland",
+    "latitude": 47.71828,
+    "longitude": -122.19702
+  },
+  {
+    "zip": 98035,
+    "city": "Kent",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98036,
+    "city": "Lynnwood",
+    "latitude": 47.808816,
+    "longitude": -122.28394
+  },
+  {
+    "zip": 98037,
+    "city": "Lynnwood",
+    "latitude": 47.848237,
+    "longitude": -122.28348
+  },
+  {
+    "zip": 98038,
+    "city": "Maple Valley",
+    "latitude": 47.381989,
+    "longitude": -122.03553
+  },
+  {
+    "zip": 98040,
+    "city": "Mercer Island",
+    "latitude": 47.569271,
+    "longitude": -122.23233
+  },
+  {
+    "zip": 98041,
+    "city": "Bothell",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98042,
+    "city": "Kent",
+    "latitude": 47.363382,
+    "longitude": -122.11451
+  },
+  {
+    "zip": 98043,
+    "city": "Mountlake Terrace",
+    "latitude": 47.790969,
+    "longitude": -122.30539
+  },
+  {
+    "zip": 98046,
+    "city": "Lynnwood",
+    "latitude": 48.037258,
+    "longitude": -121.682271
+  },
+  {
+    "zip": 98052,
+    "city": "Redmond",
+    "latitude": 47.677471,
+    "longitude": -122.12138
+  },
+  {
+    "zip": 98053,
+    "city": "Redmond",
+    "latitude": 47.640972,
+    "longitude": -122.03318
+  },
+  {
+    "zip": 98055,
+    "city": "Renton",
+    "latitude": 47.467422,
+    "longitude": -122.21005
+  },
+  {
+    "zip": 98056,
+    "city": "Renton",
+    "latitude": 47.510739,
+    "longitude": -122.18372
+  },
+  {
+    "zip": 98057,
+    "city": "Renton",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98058,
+    "city": "Renton",
+    "latitude": 47.448322,
+    "longitude": -122.14584
+  },
+  {
+    "zip": 98059,
+    "city": "Renton",
+    "latitude": 47.493031,
+    "longitude": -122.14169
+  },
+  {
+    "zip": 98060,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98063,
+    "city": "Federal Way",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98064,
+    "city": "Kent",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98067,
+    "city": "Bellevue",
+    "latitude": 47.617634,
+    "longitude": -122.140193
+  },
+  {
+    "zip": 98071,
+    "city": "Auburn",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98072,
+    "city": "Woodinville",
+    "latitude": 47.758786,
+    "longitude": -122.10205
+  },
+  {
+    "zip": 98073,
+    "city": "Redmond",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98074,
+    "city": "Sammamish",
+    "latitude": 47.625364,
+    "longitude": -122.045347
+  },
+  {
+    "zip": 98075,
+    "city": "Sammamish",
+    "latitude": 47.584879,
+    "longitude": -122.033685
+  },
+  {
+    "zip": 98082,
+    "city": "Bothell",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98083,
+    "city": "Kirkland",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98092,
+    "city": "Auburn",
+    "latitude": 47.297285,
+    "longitude": -122.16328
+  },
+  {
+    "zip": 98093,
+    "city": "Federal Way",
+    "latitude": 47.311041,
+    "longitude": -122.113791
+  },
+  {
+    "zip": 98101,
+    "city": "Seattle",
+    "latitude": 47.61067,
+    "longitude": -122.33438
+  },
+  {
+    "zip": 98102,
+    "city": "Seattle",
+    "latitude": 47.63287,
+    "longitude": -122.32253
+  },
+  {
+    "zip": 98103,
+    "city": "Seattle",
+    "latitude": 47.671346,
+    "longitude": -122.34166
+  },
+  {
+    "zip": 98104,
+    "city": "Seattle",
+    "latitude": 47.60252,
+    "longitude": -122.32855
+  },
+  {
+    "zip": 98105,
+    "city": "Seattle",
+    "latitude": 47.66377,
+    "longitude": -122.30118
+  },
+  {
+    "zip": 98106,
+    "city": "Seattle",
+    "latitude": 47.53282,
+    "longitude": -122.35443
+  },
+  {
+    "zip": 98107,
+    "city": "Seattle",
+    "latitude": 47.66747,
+    "longitude": -122.37468
+  },
+  {
+    "zip": 98108,
+    "city": "Seattle",
+    "latitude": 47.546188,
+    "longitude": -122.31514
+  },
+  {
+    "zip": 98109,
+    "city": "Seattle",
+    "latitude": 47.630648,
+    "longitude": -122.34675
+  },
+  {
+    "zip": 98110,
+    "city": "Bainbridge Island",
+    "latitude": 47.65526,
+    "longitude": -122.53508
+  },
+  {
+    "zip": 98111,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98112,
+    "city": "Seattle",
+    "latitude": 47.629653,
+    "longitude": -122.29752
+  },
+  {
+    "zip": 98113,
+    "city": "Shoreline",
+    "latitude": 47.763669,
+    "longitude": -122.35384
+  },
+  {
+    "zip": 98114,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98115,
+    "city": "Seattle",
+    "latitude": 47.68382,
+    "longitude": -122.30122
+  },
+  {
+    "zip": 98116,
+    "city": "Seattle",
+    "latitude": 47.57487,
+    "longitude": -122.39392
+  },
+  {
+    "zip": 98117,
+    "city": "Seattle",
+    "latitude": 47.685919,
+    "longitude": -122.37838
+  },
+  {
+    "zip": 98118,
+    "city": "Seattle",
+    "latitude": 47.543348,
+    "longitude": -122.27496
+  },
+  {
+    "zip": 98119,
+    "city": "Seattle",
+    "latitude": 47.63877,
+    "longitude": -122.36694
+  },
+  {
+    "zip": 98121,
+    "city": "Seattle",
+    "latitude": 47.61487,
+    "longitude": -122.34578
+  },
+  {
+    "zip": 98122,
+    "city": "Seattle",
+    "latitude": 47.61157,
+    "longitude": -122.30406
+  },
+  {
+    "zip": 98124,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98125,
+    "city": "Seattle",
+    "latitude": 47.716648,
+    "longitude": -122.30308
+  },
+  {
+    "zip": 98126,
+    "city": "Seattle",
+    "latitude": 47.54687,
+    "longitude": -122.3748
+  },
+  {
+    "zip": 98129,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98130,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98131,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98132,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98133,
+    "city": "Seattle",
+    "latitude": 47.733852,
+    "longitude": -122.34461
+  },
+  {
+    "zip": 98134,
+    "city": "Seattle",
+    "latitude": 47.57867,
+    "longitude": -122.33441
+  },
+  {
+    "zip": 98136,
+    "city": "Seattle",
+    "latitude": 47.538887,
+    "longitude": -122.38803
+  },
+  {
+    "zip": 98138,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98140,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98144,
+    "city": "Seattle",
+    "latitude": 47.58577,
+    "longitude": -122.30081
+  },
+  {
+    "zip": 98145,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98146,
+    "city": "Seattle",
+    "latitude": 47.501753,
+    "longitude": -122.35688
+  },
+  {
+    "zip": 98148,
+    "city": "Seattle",
+    "latitude": 47.443756,
+    "longitude": -122.33068
+  },
+  {
+    "zip": 98150,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98151,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98154,
+    "city": "Seattle",
+    "latitude": 47.60632,
+    "longitude": -122.33357
+  },
+  {
+    "zip": 98155,
+    "city": "Seattle",
+    "latitude": 47.753019,
+    "longitude": -122.30373
+  },
+  {
+    "zip": 98158,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98160,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98161,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98164,
+    "city": "Seattle",
+    "latitude": 47.606139,
+    "longitude": -122.33186
+  },
+  {
+    "zip": 98166,
+    "city": "Seattle",
+    "latitude": 47.458821,
+    "longitude": -122.34943
+  },
+  {
+    "zip": 98168,
+    "city": "Seattle",
+    "latitude": 47.491327,
+    "longitude": -122.3027
+  },
+  {
+    "zip": 98171,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98174,
+    "city": "Seattle",
+    "latitude": 47.604718,
+    "longitude": -122.33523
+  },
+  {
+    "zip": 98177,
+    "city": "Seattle",
+    "latitude": 47.740886,
+    "longitude": -122.36978
+  },
+  {
+    "zip": 98178,
+    "city": "Seattle",
+    "latitude": 47.497971,
+    "longitude": -122.24664
+  },
+  {
+    "zip": 98181,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98184,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98185,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98188,
+    "city": "Seattle",
+    "latitude": 47.450321,
+    "longitude": -122.27472
+  },
+  {
+    "zip": 98190,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98191,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98195,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98198,
+    "city": "Seattle",
+    "latitude": 47.397521,
+    "longitude": -122.315
+  },
+  {
+    "zip": 98199,
+    "city": "Seattle",
+    "latitude": 47.64767,
+    "longitude": -122.39758
+  },
+  {
+    "zip": 98201,
+    "city": "Everett",
+    "latitude": 47.986274,
+    "longitude": -122.20222
+  },
+  {
+    "zip": 98203,
+    "city": "Everett",
+    "latitude": 47.943468,
+    "longitude": -122.21792
+  },
+  {
+    "zip": 98204,
+    "city": "Everett",
+    "latitude": 47.90296,
+    "longitude": -122.25064
+  },
+  {
+    "zip": 98205,
+    "city": "Everett",
+    "latitude": 47.993436,
+    "longitude": -122.12723
+  },
+  {
+    "zip": 98206,
+    "city": "Everett",
+    "latitude": 47.859918,
+    "longitude": -122.284785
+  },
+  {
+    "zip": 98207,
+    "city": "Everett",
+    "latitude": 48.037258,
+    "longitude": -121.682271
+  },
+  {
+    "zip": 98208,
+    "city": "Everett",
+    "latitude": 47.893451,
+    "longitude": -122.19797
+  },
+  {
+    "zip": 98258,
+    "city": "Lake Stevens",
+    "latitude": 48.028355,
+    "longitude": -122.06327
+  },
+  {
+    "zip": 98270,
+    "city": "Marysville",
+    "latitude": 48.061269,
+    "longitude": -122.1588
+  },
+  {
+    "zip": 98271,
+    "city": "Marysville",
+    "latitude": 48.093129,
+    "longitude": -122.21614
+  },
+  {
+    "zip": 98275,
+    "city": "Mukilteo",
+    "latitude": 47.916148,
+    "longitude": -122.30293
+  },
+  {
+    "zip": 98310,
+    "city": "Bremerton",
+    "latitude": 47.58675,
+    "longitude": -122.62371
+  },
+  {
+    "zip": 98311,
+    "city": "Bremerton",
+    "latitude": 47.629717,
+    "longitude": -122.63493
+  },
+  {
+    "zip": 98312,
+    "city": "Bremerton",
+    "latitude": 47.564437,
+    "longitude": -122.71293
+  },
+  {
+    "zip": 98314,
+    "city": "Bremerton",
+    "latitude": 47.559317,
+    "longitude": -122.64915
+  },
+  {
+    "zip": 98315,
+    "city": "Silverdale",
+    "latitude": 47.720777,
+    "longitude": -122.71309
+  },
+  {
+    "zip": 98319,
+    "city": "Duvall",
+    "latitude": 47.741268,
+    "longitude": -121.978279
+  },
+  {
+    "zip": 98329,
+    "city": "Gig Harbor",
+    "latitude": 47.378121,
+    "longitude": -122.7222
+  },
+  {
+    "zip": 98332,
+    "city": "Gig Harbor",
+    "latitude": 47.364321,
+    "longitude": -122.60011
+  },
+  {
+    "zip": 98335,
+    "city": "Gig Harbor",
+    "latitude": 47.301252,
+    "longitude": -122.60562
+  },
+  {
+    "zip": 98337,
+    "city": "Bremerton",
+    "latitude": 47.569167,
+    "longitude": -122.63479
+  },
+  {
+    "zip": 98370,
+    "city": "Poulsbo",
+    "latitude": 47.743302,
+    "longitude": -122.63041
+  },
+  {
+    "zip": 98371,
+    "city": "Puyallup",
+    "latitude": 47.196272,
+    "longitude": -122.31577
+  },
+  {
+    "zip": 98372,
+    "city": "Puyallup",
+    "latitude": 47.198591,
+    "longitude": -122.27131
+  },
+  {
+    "zip": 98373,
+    "city": "Puyallup",
+    "latitude": 47.147862,
+    "longitude": -122.31864
+  },
+  {
+    "zip": 98374,
+    "city": "Puyallup",
+    "latitude": 47.140045,
+    "longitude": -122.26012
+  },
+  {
+    "zip": 98375,
+    "city": "Puyallup",
+    "latitude": 47.112477,
+    "longitude": -122.32247
+  },
+  {
+    "zip": 98383,
+    "city": "Silverdale",
+    "latitude": 47.667257,
+    "longitude": -122.69055
+  },
+  {
+    "zip": 98401,
+    "city": "Tacoma",
+    "latitude": 47.253671,
+    "longitude": -122.444335
+  },
+  {
+    "zip": 98402,
+    "city": "Tacoma",
+    "latitude": 47.247671,
+    "longitude": -122.43971
+  },
+  {
+    "zip": 98403,
+    "city": "Tacoma",
+    "latitude": 47.263971,
+    "longitude": -122.45879
+  },
+  {
+    "zip": 98404,
+    "city": "Tacoma",
+    "latitude": 47.212421,
+    "longitude": -122.4156
+  },
+  {
+    "zip": 98405,
+    "city": "Tacoma",
+    "latitude": 47.248953,
+    "longitude": -122.46599
+  },
+  {
+    "zip": 98406,
+    "city": "Tacoma",
+    "latitude": 47.26302,
+    "longitude": -122.49518
+  },
+  {
+    "zip": 98407,
+    "city": "Tacoma",
+    "latitude": 47.28392,
+    "longitude": -122.50433
+  },
+  {
+    "zip": 98408,
+    "city": "Tacoma",
+    "latitude": 47.209021,
+    "longitude": -122.44498
+  },
+  {
+    "zip": 98409,
+    "city": "Tacoma",
+    "latitude": 47.208987,
+    "longitude": -122.48053
+  },
+  {
+    "zip": 98411,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98412,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98413,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98415,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98416,
+    "city": "Tacoma",
+    "latitude": 47.264577,
+    "longitude": -122.482076
+  },
+  {
+    "zip": 98418,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98421,
+    "city": "Tacoma",
+    "latitude": 47.250681,
+    "longitude": -122.41213
+  },
+  {
+    "zip": 98422,
+    "city": "Tacoma",
+    "latitude": 47.296007,
+    "longitude": -122.39835
+  },
+  {
+    "zip": 98424,
+    "city": "Tacoma",
+    "latitude": 47.242186,
+    "longitude": -122.35916
+  },
+  {
+    "zip": 98431,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98433,
+    "city": "Tacoma",
+    "latitude": 47.080682,
+    "longitude": -122.57987
+  },
+  {
+    "zip": 98434,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98438,
+    "city": "Tacoma",
+    "latitude": 47.151297,
+    "longitude": -122.567631
+  },
+  {
+    "zip": 98439,
+    "city": "Lakewood",
+    "latitude": 47.12562,
+    "longitude": -122.52294
+  },
+  {
+    "zip": 98442,
+    "city": "Tacoma",
+    "latitude": 47.308061,
+    "longitude": -122.418495
+  },
+  {
+    "zip": 98443,
+    "city": "Tacoma",
+    "latitude": 47.202874,
+    "longitude": -122.37678
+  },
+  {
+    "zip": 98444,
+    "city": "Tacoma",
+    "latitude": 47.153571,
+    "longitude": -122.4485
+  },
+  {
+    "zip": 98445,
+    "city": "Tacoma",
+    "latitude": 47.148269,
+    "longitude": -122.41196
+  },
+  {
+    "zip": 98446,
+    "city": "Tacoma",
+    "latitude": 47.1309,
+    "longitude": -122.37589
+  },
+  {
+    "zip": 98447,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98450,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98455,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98460,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98464,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98465,
+    "city": "Tacoma",
+    "latitude": 47.247735,
+    "longitude": -122.52818
+  },
+  {
+    "zip": 98466,
+    "city": "Tacoma",
+    "latitude": 47.230402,
+    "longitude": -122.53272
+  },
+  {
+    "zip": 98471,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98477,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98481,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98492,
+    "city": "Lakewood",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98493,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98494,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98497,
+    "city": "Lakewood",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98498,
+    "city": "Lakewood",
+    "latitude": 47.16062,
+    "longitude": -122.55877
+  },
+  {
+    "zip": 98499,
+    "city": "Lakewood",
+    "latitude": 47.16632,
+    "longitude": -122.50844
+  }
+]

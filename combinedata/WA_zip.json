@@ -1,0 +1,4424 @@
+[
+  {
+    "zip": 98001,
+    "city": "Auburn",
+    "latitude": 47.303722,
+    "longitude": -122.26608
+  },
+  {
+    "zip": 98002,
+    "city": "Auburn",
+    "latitude": 47.304221,
+    "longitude": -122.21602
+  },
+  {
+    "zip": 98003,
+    "city": "Federal Way",
+    "latitude": 47.311072,
+    "longitude": -122.31188
+  },
+  {
+    "zip": 98004,
+    "city": "Bellevue",
+    "latitude": 47.618371,
+    "longitude": -122.20308
+  },
+  {
+    "zip": 98005,
+    "city": "Bellevue",
+    "latitude": 47.611021,
+    "longitude": -122.16858
+  },
+  {
+    "zip": 98006,
+    "city": "Bellevue",
+    "latitude": 47.562975,
+    "longitude": -122.1526
+  },
+  {
+    "zip": 98007,
+    "city": "Bellevue",
+    "latitude": 47.610935,
+    "longitude": -122.14104
+  },
+  {
+    "zip": 98008,
+    "city": "Bellevue",
+    "latitude": 47.609222,
+    "longitude": -122.1155
+  },
+  {
+    "zip": 98009,
+    "city": "Bellevue",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98010,
+    "city": "Black Diamond",
+    "latitude": 47.317802,
+    "longitude": -122.01479
+  },
+  {
+    "zip": 98011,
+    "city": "Bothell",
+    "latitude": 47.751471,
+    "longitude": -122.20257
+  },
+  {
+    "zip": 98012,
+    "city": "Bothell",
+    "latitude": 47.84311,
+    "longitude": -122.20457
+  },
+  {
+    "zip": 98013,
+    "city": "Burton",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98014,
+    "city": "Carnation",
+    "latitude": 47.648232,
+    "longitude": -121.91265
+  },
+  {
+    "zip": 98015,
+    "city": "Bellevue",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98019,
+    "city": "Duvall",
+    "latitude": 47.7353,
+    "longitude": -121.96222
+  },
+  {
+    "zip": 98020,
+    "city": "Edmonds",
+    "latitude": 47.803668,
+    "longitude": -122.37096
+  },
+  {
+    "zip": 98021,
+    "city": "Bothell",
+    "latitude": 47.790653,
+    "longitude": -122.22021
+  },
+  {
+    "zip": 98022,
+    "city": "Enumclaw",
+    "latitude": 47.193729,
+    "longitude": -121.91915
+  },
+  {
+    "zip": 98023,
+    "city": "Federal Way",
+    "latitude": 47.309021,
+    "longitude": -122.36178
+  },
+  {
+    "zip": 98024,
+    "city": "Fall City",
+    "latitude": 47.565642,
+    "longitude": -121.88638
+  },
+  {
+    "zip": 98025,
+    "city": "Hobart",
+    "latitude": 47.430704,
+    "longitude": -121.88496
+  },
+  {
+    "zip": 98026,
+    "city": "Edmonds",
+    "latitude": 47.821568,
+    "longitude": -122.33651
+  },
+  {
+    "zip": 98027,
+    "city": "Issaquah",
+    "latitude": 47.522828,
+    "longitude": -122.02921
+  },
+  {
+    "zip": 98028,
+    "city": "Kenmore",
+    "latitude": 47.75287,
+    "longitude": -122.24736
+  },
+  {
+    "zip": 98029,
+    "city": "Issaquah",
+    "latitude": 47.572401,
+    "longitude": -122.02065
+  },
+  {
+    "zip": 98030,
+    "city": "Kent",
+    "latitude": 47.369098,
+    "longitude": -122.192276
+  },
+  {
+    "zip": 98031,
+    "city": "Kent",
+    "latitude": 47.388461,
+    "longitude": -122.19644
+  },
+  {
+    "zip": 98032,
+    "city": "Kent",
+    "latitude": 47.388254,
+    "longitude": -122.25932
+  },
+  {
+    "zip": 98033,
+    "city": "Kirkland",
+    "latitude": 47.67903,
+    "longitude": -122.1934
+  },
+  {
+    "zip": 98034,
+    "city": "Kirkland",
+    "latitude": 47.71828,
+    "longitude": -122.19702
+  },
+  {
+    "zip": 98035,
+    "city": "Kent",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98036,
+    "city": "Lynnwood",
+    "latitude": 47.808816,
+    "longitude": -122.28394
+  },
+  {
+    "zip": 98037,
+    "city": "Lynnwood",
+    "latitude": 47.848237,
+    "longitude": -122.28348
+  },
+  {
+    "zip": 98038,
+    "city": "Maple Valley",
+    "latitude": 47.381989,
+    "longitude": -122.03553
+  },
+  {
+    "zip": 98039,
+    "city": "Medina",
+    "latitude": 47.626571,
+    "longitude": -122.2328
+  },
+  {
+    "zip": 98040,
+    "city": "Mercer Island",
+    "latitude": 47.569271,
+    "longitude": -122.23233
+  },
+  {
+    "zip": 98041,
+    "city": "Bothell",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98042,
+    "city": "Kent",
+    "latitude": 47.363382,
+    "longitude": -122.11451
+  },
+  {
+    "zip": 98043,
+    "city": "Mountlake Terrace",
+    "latitude": 47.790969,
+    "longitude": -122.30539
+  },
+  {
+    "zip": 98045,
+    "city": "North Bend",
+    "latitude": 47.483057,
+    "longitude": -121.73254
+  },
+  {
+    "zip": 98046,
+    "city": "Lynnwood",
+    "latitude": 48.037258,
+    "longitude": -121.682271
+  },
+  {
+    "zip": 98047,
+    "city": "Pacific",
+    "latitude": 47.26619,
+    "longitude": -122.24463
+  },
+  {
+    "zip": 98050,
+    "city": "Preston",
+    "latitude": 47.536015,
+    "longitude": -121.931195
+  },
+  {
+    "zip": 98051,
+    "city": "Ravensdale",
+    "latitude": 47.359414,
+    "longitude": -121.88657
+  },
+  {
+    "zip": 98052,
+    "city": "Redmond",
+    "latitude": 47.677471,
+    "longitude": -122.12138
+  },
+  {
+    "zip": 98053,
+    "city": "Redmond",
+    "latitude": 47.640972,
+    "longitude": -122.03318
+  },
+  {
+    "zip": 98054,
+    "city": "Redondo",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98055,
+    "city": "Renton",
+    "latitude": 47.467422,
+    "longitude": -122.21005
+  },
+  {
+    "zip": 98056,
+    "city": "Renton",
+    "latitude": 47.510739,
+    "longitude": -122.18372
+  },
+  {
+    "zip": 98057,
+    "city": "Renton",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98058,
+    "city": "Renton",
+    "latitude": 47.448322,
+    "longitude": -122.14584
+  },
+  {
+    "zip": 98059,
+    "city": "Renton",
+    "latitude": 47.493031,
+    "longitude": -122.14169
+  },
+  {
+    "zip": 98060,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98061,
+    "city": "Rollingbay",
+    "latitude": 47.680763,
+    "longitude": -122.576199
+  },
+  {
+    "zip": 98062,
+    "city": "Seahurst",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98063,
+    "city": "Federal Way",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98064,
+    "city": "Kent",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98065,
+    "city": "Snoqualmie",
+    "latitude": 47.530639,
+    "longitude": -121.83053
+  },
+  {
+    "zip": 98067,
+    "city": "Bellevue",
+    "latitude": 47.617634,
+    "longitude": -122.140193
+  },
+  {
+    "zip": 98068,
+    "city": "Snoqualmie Pass",
+    "latitude": 47.397811,
+    "longitude": -121.39603
+  },
+  {
+    "zip": 98070,
+    "city": "Vashon",
+    "latitude": 47.416198,
+    "longitude": -122.46821
+  },
+  {
+    "zip": 98071,
+    "city": "Auburn",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98072,
+    "city": "Woodinville",
+    "latitude": 47.758786,
+    "longitude": -122.10205
+  },
+  {
+    "zip": 98073,
+    "city": "Redmond",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98074,
+    "city": "Sammamish",
+    "latitude": 47.625364,
+    "longitude": -122.045347
+  },
+  {
+    "zip": 98075,
+    "city": "Sammamish",
+    "latitude": 47.584879,
+    "longitude": -122.033685
+  },
+  {
+    "zip": 98082,
+    "city": "Bothell",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98083,
+    "city": "Kirkland",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98092,
+    "city": "Auburn",
+    "latitude": 47.297285,
+    "longitude": -122.16328
+  },
+  {
+    "zip": 98093,
+    "city": "Federal Way",
+    "latitude": 47.311041,
+    "longitude": -122.113791
+  },
+  {
+    "zip": 98101,
+    "city": "Seattle",
+    "latitude": 47.61067,
+    "longitude": -122.33438
+  },
+  {
+    "zip": 98102,
+    "city": "Seattle",
+    "latitude": 47.63287,
+    "longitude": -122.32253
+  },
+  {
+    "zip": 98103,
+    "city": "Seattle",
+    "latitude": 47.671346,
+    "longitude": -122.34166
+  },
+  {
+    "zip": 98104,
+    "city": "Seattle",
+    "latitude": 47.60252,
+    "longitude": -122.32855
+  },
+  {
+    "zip": 98105,
+    "city": "Seattle",
+    "latitude": 47.66377,
+    "longitude": -122.30118
+  },
+  {
+    "zip": 98106,
+    "city": "Seattle",
+    "latitude": 47.53282,
+    "longitude": -122.35443
+  },
+  {
+    "zip": 98107,
+    "city": "Seattle",
+    "latitude": 47.66747,
+    "longitude": -122.37468
+  },
+  {
+    "zip": 98108,
+    "city": "Seattle",
+    "latitude": 47.546188,
+    "longitude": -122.31514
+  },
+  {
+    "zip": 98109,
+    "city": "Seattle",
+    "latitude": 47.630648,
+    "longitude": -122.34675
+  },
+  {
+    "zip": 98110,
+    "city": "Bainbridge Island",
+    "latitude": 47.65526,
+    "longitude": -122.53508
+  },
+  {
+    "zip": 98111,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98112,
+    "city": "Seattle",
+    "latitude": 47.629653,
+    "longitude": -122.29752
+  },
+  {
+    "zip": 98113,
+    "city": "Shoreline",
+    "latitude": 47.763669,
+    "longitude": -122.35384
+  },
+  {
+    "zip": 98114,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98115,
+    "city": "Seattle",
+    "latitude": 47.68382,
+    "longitude": -122.30122
+  },
+  {
+    "zip": 98116,
+    "city": "Seattle",
+    "latitude": 47.57487,
+    "longitude": -122.39392
+  },
+  {
+    "zip": 98117,
+    "city": "Seattle",
+    "latitude": 47.685919,
+    "longitude": -122.37838
+  },
+  {
+    "zip": 98118,
+    "city": "Seattle",
+    "latitude": 47.543348,
+    "longitude": -122.27496
+  },
+  {
+    "zip": 98119,
+    "city": "Seattle",
+    "latitude": 47.63877,
+    "longitude": -122.36694
+  },
+  {
+    "zip": 98121,
+    "city": "Seattle",
+    "latitude": 47.61487,
+    "longitude": -122.34578
+  },
+  {
+    "zip": 98122,
+    "city": "Seattle",
+    "latitude": 47.61157,
+    "longitude": -122.30406
+  },
+  {
+    "zip": 98124,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98125,
+    "city": "Seattle",
+    "latitude": 47.716648,
+    "longitude": -122.30308
+  },
+  {
+    "zip": 98126,
+    "city": "Seattle",
+    "latitude": 47.54687,
+    "longitude": -122.3748
+  },
+  {
+    "zip": 98129,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98130,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98131,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98132,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98133,
+    "city": "Seattle",
+    "latitude": 47.733852,
+    "longitude": -122.34461
+  },
+  {
+    "zip": 98134,
+    "city": "Seattle",
+    "latitude": 47.57867,
+    "longitude": -122.33441
+  },
+  {
+    "zip": 98136,
+    "city": "Seattle",
+    "latitude": 47.538887,
+    "longitude": -122.38803
+  },
+  {
+    "zip": 98138,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98140,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98144,
+    "city": "Seattle",
+    "latitude": 47.58577,
+    "longitude": -122.30081
+  },
+  {
+    "zip": 98145,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98146,
+    "city": "Seattle",
+    "latitude": 47.501753,
+    "longitude": -122.35688
+  },
+  {
+    "zip": 98148,
+    "city": "Seattle",
+    "latitude": 47.443756,
+    "longitude": -122.33068
+  },
+  {
+    "zip": 98150,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98151,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98154,
+    "city": "Seattle",
+    "latitude": 47.60632,
+    "longitude": -122.33357
+  },
+  {
+    "zip": 98155,
+    "city": "Seattle",
+    "latitude": 47.753019,
+    "longitude": -122.30373
+  },
+  {
+    "zip": 98158,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98160,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98161,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98164,
+    "city": "Seattle",
+    "latitude": 47.606139,
+    "longitude": -122.33186
+  },
+  {
+    "zip": 98166,
+    "city": "Seattle",
+    "latitude": 47.458821,
+    "longitude": -122.34943
+  },
+  {
+    "zip": 98168,
+    "city": "Seattle",
+    "latitude": 47.491327,
+    "longitude": -122.3027
+  },
+  {
+    "zip": 98171,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98174,
+    "city": "Seattle",
+    "latitude": 47.604718,
+    "longitude": -122.33523
+  },
+  {
+    "zip": 98177,
+    "city": "Seattle",
+    "latitude": 47.740886,
+    "longitude": -122.36978
+  },
+  {
+    "zip": 98178,
+    "city": "Seattle",
+    "latitude": 47.497971,
+    "longitude": -122.24664
+  },
+  {
+    "zip": 98181,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98184,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98185,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98188,
+    "city": "Seattle",
+    "latitude": 47.450321,
+    "longitude": -122.27472
+  },
+  {
+    "zip": 98190,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98191,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98195,
+    "city": "Seattle",
+    "latitude": 47.432251,
+    "longitude": -121.803388
+  },
+  {
+    "zip": 98198,
+    "city": "Seattle",
+    "latitude": 47.397521,
+    "longitude": -122.315
+  },
+  {
+    "zip": 98199,
+    "city": "Seattle",
+    "latitude": 47.64767,
+    "longitude": -122.39758
+  },
+  {
+    "zip": 98201,
+    "city": "Everett",
+    "latitude": 47.986274,
+    "longitude": -122.20222
+  },
+  {
+    "zip": 98203,
+    "city": "Everett",
+    "latitude": 47.943468,
+    "longitude": -122.21792
+  },
+  {
+    "zip": 98204,
+    "city": "Everett",
+    "latitude": 47.90296,
+    "longitude": -122.25064
+  },
+  {
+    "zip": 98205,
+    "city": "Everett",
+    "latitude": 47.993436,
+    "longitude": -122.12723
+  },
+  {
+    "zip": 98206,
+    "city": "Everett",
+    "latitude": 47.859918,
+    "longitude": -122.284785
+  },
+  {
+    "zip": 98207,
+    "city": "Everett",
+    "latitude": 48.037258,
+    "longitude": -121.682271
+  },
+  {
+    "zip": 98208,
+    "city": "Everett",
+    "latitude": 47.893451,
+    "longitude": -122.19797
+  },
+  {
+    "zip": 98220,
+    "city": "Acme",
+    "latitude": 48.681582,
+    "longitude": -122.1977
+  },
+  {
+    "zip": 98221,
+    "city": "Anacortes",
+    "latitude": 48.495234,
+    "longitude": -122.61976
+  },
+  {
+    "zip": 98222,
+    "city": "Blakely Island",
+    "latitude": 48.586563,
+    "longitude": -122.80317
+  },
+  {
+    "zip": 98223,
+    "city": "Arlington",
+    "latitude": 48.203856,
+    "longitude": -122.05288
+  },
+  {
+    "zip": 98224,
+    "city": "Baring",
+    "latitude": 47.763755,
+    "longitude": -121.47607
+  },
+  {
+    "zip": 98225,
+    "city": "Bellingham",
+    "latitude": 48.747578,
+    "longitude": -122.48508
+  },
+  {
+    "zip": 98226,
+    "city": "Bellingham",
+    "latitude": 48.759079,
+    "longitude": -122.43597
+  },
+  {
+    "zip": 98227,
+    "city": "Bellingham",
+    "latitude": 48.814753,
+    "longitude": -121.988548
+  },
+  {
+    "zip": 98228,
+    "city": "Bellingham",
+    "latitude": 48.814753,
+    "longitude": -121.988548
+  },
+  {
+    "zip": 98229,
+    "city": "Bellingham",
+    "latitude": 48.725417,
+    "longitude": -122.435478
+  },
+  {
+    "zip": 98230,
+    "city": "Blaine",
+    "latitude": 48.961443,
+    "longitude": -122.73714
+  },
+  {
+    "zip": 98231,
+    "city": "Blaine",
+    "latitude": 48.814753,
+    "longitude": -121.988548
+  },
+  {
+    "zip": 98232,
+    "city": "Bow",
+    "latitude": 48.559548,
+    "longitude": -122.41375
+  },
+  {
+    "zip": 98233,
+    "city": "Burlington",
+    "latitude": 48.486892,
+    "longitude": -122.33366
+  },
+  {
+    "zip": 98235,
+    "city": "Clearlake",
+    "latitude": 48.461672,
+    "longitude": -122.23308
+  },
+  {
+    "zip": 98236,
+    "city": "Clinton",
+    "latitude": 47.962134,
+    "longitude": -122.40089
+  },
+  {
+    "zip": 98237,
+    "city": "Concrete",
+    "latitude": 48.497601,
+    "longitude": -121.70018
+  },
+  {
+    "zip": 98238,
+    "city": "Conway",
+    "latitude": 48.337796,
+    "longitude": -122.34517
+  },
+  {
+    "zip": 98239,
+    "city": "Coupeville",
+    "latitude": 48.204162,
+    "longitude": -122.66723
+  },
+  {
+    "zip": 98240,
+    "city": "Custer",
+    "latitude": 48.931679,
+    "longitude": -122.63256
+  },
+  {
+    "zip": 98241,
+    "city": "Darrington",
+    "latitude": 48.265483,
+    "longitude": -121.56075
+  },
+  {
+    "zip": 98243,
+    "city": "Deer Harbor",
+    "latitude": 48.612763,
+    "longitude": -123.02057
+  },
+  {
+    "zip": 98244,
+    "city": "Deming",
+    "latitude": 48.841442,
+    "longitude": -122.12547
+  },
+  {
+    "zip": 98245,
+    "city": "Eastsound",
+    "latitude": 48.672312,
+    "longitude": -122.91972
+  },
+  {
+    "zip": 98246,
+    "city": "Bow",
+    "latitude": 48.558127,
+    "longitude": -121.417034
+  },
+  {
+    "zip": 98247,
+    "city": "Everson",
+    "latitude": 48.900256,
+    "longitude": -122.32095
+  },
+  {
+    "zip": 98248,
+    "city": "Ferndale",
+    "latitude": 48.852655,
+    "longitude": -122.61807
+  },
+  {
+    "zip": 98249,
+    "city": "Freeland",
+    "latitude": 48.029176,
+    "longitude": -122.54222
+  },
+  {
+    "zip": 98250,
+    "city": "Friday Harbor",
+    "latitude": 48.55113,
+    "longitude": -123.07563
+  },
+  {
+    "zip": 98251,
+    "city": "Gold Bar",
+    "latitude": 47.851713,
+    "longitude": -121.66644
+  },
+  {
+    "zip": 98252,
+    "city": "Granite Falls",
+    "latitude": 48.070852,
+    "longitude": -121.82242
+  },
+  {
+    "zip": 98253,
+    "city": "Greenbank",
+    "latitude": 48.085852,
+    "longitude": -122.57129
+  },
+  {
+    "zip": 98255,
+    "city": "Hamilton",
+    "latitude": 48.525461,
+    "longitude": -121.9887
+  },
+  {
+    "zip": 98256,
+    "city": "Index",
+    "latitude": 47.84138,
+    "longitude": -121.50689
+  },
+  {
+    "zip": 98257,
+    "city": "La Conner",
+    "latitude": 48.393063,
+    "longitude": -122.50476
+  },
+  {
+    "zip": 98258,
+    "city": "Lake Stevens",
+    "latitude": 48.028355,
+    "longitude": -122.06327
+  },
+  {
+    "zip": 98259,
+    "city": "North Lakewood",
+    "latitude": 48.037258,
+    "longitude": -121.682271
+  },
+  {
+    "zip": 98260,
+    "city": "Langley",
+    "latitude": 48.030555,
+    "longitude": -122.44856
+  },
+  {
+    "zip": 98261,
+    "city": "Lopez Island",
+    "latitude": 48.481655,
+    "longitude": -122.88271
+  },
+  {
+    "zip": 98262,
+    "city": "Lummi Island",
+    "latitude": 48.699642,
+    "longitude": -122.66658
+  },
+  {
+    "zip": 98263,
+    "city": "Lyman",
+    "latitude": 48.534462,
+    "longitude": -122.058644
+  },
+  {
+    "zip": 98264,
+    "city": "Lynden",
+    "latitude": 48.943476,
+    "longitude": -122.45723
+  },
+  {
+    "zip": 98266,
+    "city": "Maple Falls",
+    "latitude": 48.853213,
+    "longitude": -122.247881
+  },
+  {
+    "zip": 98267,
+    "city": "Marblemount",
+    "latitude": 48.499159,
+    "longitude": -121.43163
+  },
+  {
+    "zip": 98270,
+    "city": "Marysville",
+    "latitude": 48.061269,
+    "longitude": -122.1588
+  },
+  {
+    "zip": 98271,
+    "city": "Marysville",
+    "latitude": 48.093129,
+    "longitude": -122.21614
+  },
+  {
+    "zip": 98272,
+    "city": "Monroe",
+    "latitude": 47.860245,
+    "longitude": -121.93734
+  },
+  {
+    "zip": 98273,
+    "city": "Mount Vernon",
+    "latitude": 48.414576,
+    "longitude": -122.35196
+  },
+  {
+    "zip": 98274,
+    "city": "Mount Vernon",
+    "latitude": 48.371026,
+    "longitude": -122.24432
+  },
+  {
+    "zip": 98275,
+    "city": "Mukilteo",
+    "latitude": 47.916148,
+    "longitude": -122.30293
+  },
+  {
+    "zip": 98276,
+    "city": "Nooksack",
+    "latitude": 48.834208,
+    "longitude": -122.335734
+  },
+  {
+    "zip": 98277,
+    "city": "Oak Harbor",
+    "latitude": 48.303774,
+    "longitude": -122.65093
+  },
+  {
+    "zip": 98278,
+    "city": "Oak Harbor",
+    "latitude": 48.310127,
+    "longitude": -122.655862
+  },
+  {
+    "zip": 98279,
+    "city": "Olga",
+    "latitude": 48.63205,
+    "longitude": -122.81372
+  },
+  {
+    "zip": 98280,
+    "city": "Orcas",
+    "latitude": 48.594255,
+    "longitude": -122.91828
+  },
+  {
+    "zip": 98281,
+    "city": "Point Roberts",
+    "latitude": 48.99201,
+    "longitude": -123.05047
+  },
+  {
+    "zip": 98282,
+    "city": "Camano",
+    "latitude": 48.185511,
+    "longitude": -122.48209
+  },
+  {
+    "zip": 98283,
+    "city": "Rockport",
+    "latitude": 48.509814,
+    "longitude": -121.48418
+  },
+  {
+    "zip": 98284,
+    "city": "Sedro Woolley",
+    "latitude": 48.518653,
+    "longitude": -122.16545
+  },
+  {
+    "zip": 98286,
+    "city": "Shaw Island",
+    "latitude": 48.575362,
+    "longitude": -122.96643
+  },
+  {
+    "zip": 98287,
+    "city": "Silvana",
+    "latitude": 48.037258,
+    "longitude": -121.682271
+  },
+  {
+    "zip": 98288,
+    "city": "Skykomish",
+    "latitude": 47.658047,
+    "longitude": -121.41445
+  },
+  {
+    "zip": 98290,
+    "city": "Snohomish",
+    "latitude": 47.930902,
+    "longitude": -122.03976
+  },
+  {
+    "zip": 98291,
+    "city": "Snohomish",
+    "latitude": 47.909511,
+    "longitude": -122.050108
+  },
+  {
+    "zip": 98292,
+    "city": "Stanwood",
+    "latitude": 48.222046,
+    "longitude": -122.38961
+  },
+  {
+    "zip": 98293,
+    "city": "Startup",
+    "latitude": 47.870275,
+    "longitude": -121.76849
+  },
+  {
+    "zip": 98294,
+    "city": "Sultan",
+    "latitude": 47.86527,
+    "longitude": -121.78899
+  },
+  {
+    "zip": 98295,
+    "city": "Sumas",
+    "latitude": 48.971298,
+    "longitude": -122.20146
+  },
+  {
+    "zip": 98296,
+    "city": "Snohomish",
+    "latitude": 47.846083,
+    "longitude": -122.11068
+  },
+  {
+    "zip": 98297,
+    "city": "Waldron",
+    "latitude": 48.701835,
+    "longitude": -123.02636
+  },
+  {
+    "zip": 98303,
+    "city": "Anderson Island",
+    "latitude": 47.16438,
+    "longitude": -122.69584
+  },
+  {
+    "zip": 98304,
+    "city": "Ashford",
+    "latitude": 46.75523,
+    "longitude": -122.01544
+  },
+  {
+    "zip": 98305,
+    "city": "Beaver",
+    "latitude": 48.066605,
+    "longitude": -124.30909
+  },
+  {
+    "zip": 98310,
+    "city": "Bremerton",
+    "latitude": 47.58675,
+    "longitude": -122.62371
+  },
+  {
+    "zip": 98311,
+    "city": "Bremerton",
+    "latitude": 47.629717,
+    "longitude": -122.63493
+  },
+  {
+    "zip": 98312,
+    "city": "Bremerton",
+    "latitude": 47.564437,
+    "longitude": -122.71293
+  },
+  {
+    "zip": 98314,
+    "city": "Bremerton",
+    "latitude": 47.559317,
+    "longitude": -122.64915
+  },
+  {
+    "zip": 98315,
+    "city": "Silverdale",
+    "latitude": 47.720777,
+    "longitude": -122.71309
+  },
+  {
+    "zip": 98319,
+    "city": "Duvall",
+    "latitude": 47.741268,
+    "longitude": -121.978279
+  },
+  {
+    "zip": 98320,
+    "city": "Brinnon",
+    "latitude": 47.705616,
+    "longitude": -122.92868
+  },
+  {
+    "zip": 98321,
+    "city": "Buckley",
+    "latitude": 47.155649,
+    "longitude": -122.05255
+  },
+  {
+    "zip": 98322,
+    "city": "Burley",
+    "latitude": 47.687971,
+    "longitude": -122.729304
+  },
+  {
+    "zip": 98323,
+    "city": "Carbonado",
+    "latitude": 47.035525,
+    "longitude": -121.951
+  },
+  {
+    "zip": 98324,
+    "city": "Carlsborg",
+    "latitude": 48.18315,
+    "longitude": -123.872972
+  },
+  {
+    "zip": 98325,
+    "city": "Chimacum",
+    "latitude": 47.974586,
+    "longitude": -122.78382
+  },
+  {
+    "zip": 98326,
+    "city": "Clallam Bay",
+    "latitude": 48.181608,
+    "longitude": -124.41188
+  },
+  {
+    "zip": 98327,
+    "city": "Dupont",
+    "latitude": 47.088719,
+    "longitude": -122.64326
+  },
+  {
+    "zip": 98328,
+    "city": "Eatonville",
+    "latitude": 46.884733,
+    "longitude": -122.29237
+  },
+  {
+    "zip": 98329,
+    "city": "Gig Harbor",
+    "latitude": 47.378121,
+    "longitude": -122.7222
+  },
+  {
+    "zip": 98330,
+    "city": "Elbe",
+    "latitude": 46.761546,
+    "longitude": -122.17858
+  },
+  {
+    "zip": 98331,
+    "city": "Forks",
+    "latitude": 47.838423,
+    "longitude": -124.35888
+  },
+  {
+    "zip": 98332,
+    "city": "Gig Harbor",
+    "latitude": 47.364321,
+    "longitude": -122.60011
+  },
+  {
+    "zip": 98333,
+    "city": "Fox Island",
+    "latitude": 47.244053,
+    "longitude": -122.6199
+  },
+  {
+    "zip": 98335,
+    "city": "Gig Harbor",
+    "latitude": 47.301252,
+    "longitude": -122.60562
+  },
+  {
+    "zip": 98336,
+    "city": "Glenoma",
+    "latitude": 46.53619,
+    "longitude": -122.11766
+  },
+  {
+    "zip": 98337,
+    "city": "Bremerton",
+    "latitude": 47.569167,
+    "longitude": -122.63479
+  },
+  {
+    "zip": 98338,
+    "city": "Graham",
+    "latitude": 47.028423,
+    "longitude": -122.291
+  },
+  {
+    "zip": 98339,
+    "city": "Port Hadlock",
+    "latitude": 48.036882,
+    "longitude": -122.7599
+  },
+  {
+    "zip": 98340,
+    "city": "Hansville",
+    "latitude": 47.910628,
+    "longitude": -122.57489
+  },
+  {
+    "zip": 98342,
+    "city": "Indianola",
+    "latitude": 47.74878,
+    "longitude": -122.53051
+  },
+  {
+    "zip": 98343,
+    "city": "Joyce",
+    "latitude": 48.18315,
+    "longitude": -123.872972
+  },
+  {
+    "zip": 98344,
+    "city": "Kapowsin",
+    "latitude": 46.989916,
+    "longitude": -122.222642
+  },
+  {
+    "zip": 98345,
+    "city": "Keyport",
+    "latitude": 47.702342,
+    "longitude": -122.62554
+  },
+  {
+    "zip": 98346,
+    "city": "Kingston",
+    "latitude": 47.807359,
+    "longitude": -122.51962
+  },
+  {
+    "zip": 98348,
+    "city": "La Grande",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98349,
+    "city": "Lakebay",
+    "latitude": 47.268551,
+    "longitude": -122.76897
+  },
+  {
+    "zip": 98350,
+    "city": "La Push",
+    "latitude": 47.905815,
+    "longitude": -124.62202
+  },
+  {
+    "zip": 98351,
+    "city": "Longbranch",
+    "latitude": 47.200168,
+    "longitude": -122.77537
+  },
+  {
+    "zip": 98352,
+    "city": "Sumner",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98353,
+    "city": "Manchester",
+    "latitude": 47.553289,
+    "longitude": -122.54535
+  },
+  {
+    "zip": 98354,
+    "city": "Milton",
+    "latitude": 47.248208,
+    "longitude": -122.31737
+  },
+  {
+    "zip": 98355,
+    "city": "Mineral",
+    "latitude": 46.711036,
+    "longitude": -122.0348
+  },
+  {
+    "zip": 98356,
+    "city": "Morton",
+    "latitude": 46.562676,
+    "longitude": -122.29514
+  },
+  {
+    "zip": 98357,
+    "city": "Neah Bay",
+    "latitude": 48.35306,
+    "longitude": -124.64076
+  },
+  {
+    "zip": 98358,
+    "city": "Nordland",
+    "latitude": 48.058323,
+    "longitude": -122.68794
+  },
+  {
+    "zip": 98359,
+    "city": "Olalla",
+    "latitude": 47.43025,
+    "longitude": -122.57159
+  },
+  {
+    "zip": 98360,
+    "city": "Orting",
+    "latitude": 47.039607,
+    "longitude": -122.14691
+  },
+  {
+    "zip": 98361,
+    "city": "Packwood",
+    "latitude": 46.580048,
+    "longitude": -121.61674
+  },
+  {
+    "zip": 98362,
+    "city": "Port Angeles",
+    "latitude": 48.097144,
+    "longitude": -123.40628
+  },
+  {
+    "zip": 98363,
+    "city": "Port Angeles",
+    "latitude": 48.102836,
+    "longitude": -123.63765
+  },
+  {
+    "zip": 98364,
+    "city": "Port Gamble",
+    "latitude": 47.854503,
+    "longitude": -122.59122
+  },
+  {
+    "zip": 98365,
+    "city": "Port Ludlow",
+    "latitude": 47.907561,
+    "longitude": -122.69416
+  },
+  {
+    "zip": 98366,
+    "city": "Port Orchard",
+    "latitude": 47.53587,
+    "longitude": -122.59905
+  },
+  {
+    "zip": 98367,
+    "city": "Port Orchard",
+    "latitude": 47.470971,
+    "longitude": -122.66335
+  },
+  {
+    "zip": 98368,
+    "city": "Port Townsend",
+    "latitude": 48.100255,
+    "longitude": -122.79736
+  },
+  {
+    "zip": 98370,
+    "city": "Poulsbo",
+    "latitude": 47.743302,
+    "longitude": -122.63041
+  },
+  {
+    "zip": 98371,
+    "city": "Puyallup",
+    "latitude": 47.196272,
+    "longitude": -122.31577
+  },
+  {
+    "zip": 98372,
+    "city": "Puyallup",
+    "latitude": 47.198591,
+    "longitude": -122.27131
+  },
+  {
+    "zip": 98373,
+    "city": "Puyallup",
+    "latitude": 47.147862,
+    "longitude": -122.31864
+  },
+  {
+    "zip": 98374,
+    "city": "Puyallup",
+    "latitude": 47.140045,
+    "longitude": -122.26012
+  },
+  {
+    "zip": 98375,
+    "city": "Puyallup",
+    "latitude": 47.112477,
+    "longitude": -122.32247
+  },
+  {
+    "zip": 98376,
+    "city": "Quilcene",
+    "latitude": 47.826111,
+    "longitude": -122.85233
+  },
+  {
+    "zip": 98377,
+    "city": "Randle",
+    "latitude": 46.525156,
+    "longitude": -121.85094
+  },
+  {
+    "zip": 98378,
+    "city": "Retsil",
+    "latitude": 47.687971,
+    "longitude": -122.729304
+  },
+  {
+    "zip": 98380,
+    "city": "Seabeck",
+    "latitude": 47.596122,
+    "longitude": -122.89456
+  },
+  {
+    "zip": 98381,
+    "city": "Sekiu",
+    "latitude": 48.283826,
+    "longitude": -124.37144
+  },
+  {
+    "zip": 98382,
+    "city": "Sequim",
+    "latitude": 48.079979,
+    "longitude": -123.09916
+  },
+  {
+    "zip": 98383,
+    "city": "Silverdale",
+    "latitude": 47.667257,
+    "longitude": -122.69055
+  },
+  {
+    "zip": 98384,
+    "city": "South Colby",
+    "latitude": 47.521803,
+    "longitude": -122.539637
+  },
+  {
+    "zip": 98385,
+    "city": "South Prairie",
+    "latitude": 47.138345,
+    "longitude": -122.09819
+  },
+  {
+    "zip": 98386,
+    "city": "Southworth",
+    "latitude": 47.51037,
+    "longitude": -122.499139
+  },
+  {
+    "zip": 98387,
+    "city": "Spanaway",
+    "latitude": 47.077796,
+    "longitude": -122.40517
+  },
+  {
+    "zip": 98388,
+    "city": "Steilacoom",
+    "latitude": 47.164965,
+    "longitude": -122.6005
+  },
+  {
+    "zip": 98389,
+    "city": "South Prairie",
+    "latitude": 47.137872,
+    "longitude": -122.09356
+  },
+  {
+    "zip": 98390,
+    "city": "Sumner",
+    "latitude": 47.196364,
+    "longitude": -122.1887
+  },
+  {
+    "zip": 98392,
+    "city": "Suquamish",
+    "latitude": 47.735065,
+    "longitude": -122.55751
+  },
+  {
+    "zip": 98393,
+    "city": "Tracyton",
+    "latitude": 47.626717,
+    "longitude": -122.649953
+  },
+  {
+    "zip": 98394,
+    "city": "Vaughn",
+    "latitude": 47.336226,
+    "longitude": -122.78309
+  },
+  {
+    "zip": 98395,
+    "city": "Wauna",
+    "latitude": 47.266017,
+    "longitude": -122.832799
+  },
+  {
+    "zip": 98396,
+    "city": "Wilkeson",
+    "latitude": 47.106024,
+    "longitude": -122.0451
+  },
+  {
+    "zip": 98397,
+    "city": "Longmire",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98398,
+    "city": "Paradise Inn",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98401,
+    "city": "Tacoma",
+    "latitude": 47.253671,
+    "longitude": -122.444335
+  },
+  {
+    "zip": 98402,
+    "city": "Tacoma",
+    "latitude": 47.247671,
+    "longitude": -122.43971
+  },
+  {
+    "zip": 98403,
+    "city": "Tacoma",
+    "latitude": 47.263971,
+    "longitude": -122.45879
+  },
+  {
+    "zip": 98404,
+    "city": "Tacoma",
+    "latitude": 47.212421,
+    "longitude": -122.4156
+  },
+  {
+    "zip": 98405,
+    "city": "Tacoma",
+    "latitude": 47.248953,
+    "longitude": -122.46599
+  },
+  {
+    "zip": 98406,
+    "city": "Tacoma",
+    "latitude": 47.26302,
+    "longitude": -122.49518
+  },
+  {
+    "zip": 98407,
+    "city": "Tacoma",
+    "latitude": 47.28392,
+    "longitude": -122.50433
+  },
+  {
+    "zip": 98408,
+    "city": "Tacoma",
+    "latitude": 47.209021,
+    "longitude": -122.44498
+  },
+  {
+    "zip": 98409,
+    "city": "Tacoma",
+    "latitude": 47.208987,
+    "longitude": -122.48053
+  },
+  {
+    "zip": 98411,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98412,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98413,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98415,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98416,
+    "city": "Tacoma",
+    "latitude": 47.264577,
+    "longitude": -122.482076
+  },
+  {
+    "zip": 98418,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98421,
+    "city": "Tacoma",
+    "latitude": 47.250681,
+    "longitude": -122.41213
+  },
+  {
+    "zip": 98422,
+    "city": "Tacoma",
+    "latitude": 47.296007,
+    "longitude": -122.39835
+  },
+  {
+    "zip": 98424,
+    "city": "Tacoma",
+    "latitude": 47.242186,
+    "longitude": -122.35916
+  },
+  {
+    "zip": 98430,
+    "city": "Camp Murray",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98431,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98433,
+    "city": "Tacoma",
+    "latitude": 47.080682,
+    "longitude": -122.57987
+  },
+  {
+    "zip": 98434,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98438,
+    "city": "Tacoma",
+    "latitude": 47.151297,
+    "longitude": -122.567631
+  },
+  {
+    "zip": 98439,
+    "city": "Lakewood",
+    "latitude": 47.12562,
+    "longitude": -122.52294
+  },
+  {
+    "zip": 98442,
+    "city": "Tacoma",
+    "latitude": 47.308061,
+    "longitude": -122.418495
+  },
+  {
+    "zip": 98443,
+    "city": "Tacoma",
+    "latitude": 47.202874,
+    "longitude": -122.37678
+  },
+  {
+    "zip": 98444,
+    "city": "Tacoma",
+    "latitude": 47.153571,
+    "longitude": -122.4485
+  },
+  {
+    "zip": 98445,
+    "city": "Tacoma",
+    "latitude": 47.148269,
+    "longitude": -122.41196
+  },
+  {
+    "zip": 98446,
+    "city": "Tacoma",
+    "latitude": 47.1309,
+    "longitude": -122.37589
+  },
+  {
+    "zip": 98447,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98448,
+    "city": "Parkland",
+    "latitude": 47.136544,
+    "longitude": -122.422431
+  },
+  {
+    "zip": 98450,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98455,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98460,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98464,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98465,
+    "city": "Tacoma",
+    "latitude": 47.247735,
+    "longitude": -122.52818
+  },
+  {
+    "zip": 98466,
+    "city": "Tacoma",
+    "latitude": 47.230402,
+    "longitude": -122.53272
+  },
+  {
+    "zip": 98467,
+    "city": "University Place",
+    "latitude": 47.203946,
+    "longitude": -122.52996
+  },
+  {
+    "zip": 98468,
+    "city": "Oakville",
+    "latitude": 46.843337,
+    "longitude": -123.228797
+  },
+  {
+    "zip": 98471,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98477,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98481,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98485,
+    "city": "South Prairie",
+    "latitude": 47.140655,
+    "longitude": -122.100892
+  },
+  {
+    "zip": 98492,
+    "city": "Lakewood",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98493,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98494,
+    "city": "Tacoma",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98497,
+    "city": "Lakewood",
+    "latitude": 47.066193,
+    "longitude": -122.113223
+  },
+  {
+    "zip": 98498,
+    "city": "Lakewood",
+    "latitude": 47.16062,
+    "longitude": -122.55877
+  },
+  {
+    "zip": 98499,
+    "city": "Lakewood",
+    "latitude": 47.16632,
+    "longitude": -122.50844
+  },
+  {
+    "zip": 98500,
+    "city": "Tumwater",
+    "latitude": 46.985519,
+    "longitude": -122.907649
+  },
+  {
+    "zip": 98501,
+    "city": "Olympia",
+    "latitude": 47.014718,
+    "longitude": -122.8819
+  },
+  {
+    "zip": 98502,
+    "city": "Olympia",
+    "latitude": 47.071484,
+    "longitude": -122.97702
+  },
+  {
+    "zip": 98503,
+    "city": "Lacey",
+    "latitude": 47.027082,
+    "longitude": -122.80359
+  },
+  {
+    "zip": 98504,
+    "city": "Olympia",
+    "latitude": 46.978118,
+    "longitude": -122.702393
+  },
+  {
+    "zip": 98505,
+    "city": "Olympia",
+    "latitude": 47.065404,
+    "longitude": -122.976187
+  },
+  {
+    "zip": 98506,
+    "city": "Olympia",
+    "latitude": 47.069339,
+    "longitude": -122.87249
+  },
+  {
+    "zip": 98507,
+    "city": "Olympia",
+    "latitude": 46.978118,
+    "longitude": -122.702393
+  },
+  {
+    "zip": 98508,
+    "city": "Olympia",
+    "latitude": 46.978118,
+    "longitude": -122.702393
+  },
+  {
+    "zip": 98509,
+    "city": "Lacey",
+    "latitude": 46.978118,
+    "longitude": -122.702393
+  },
+  {
+    "zip": 98512,
+    "city": "Olympia",
+    "latitude": 46.969793,
+    "longitude": -122.99802
+  },
+  {
+    "zip": 98513,
+    "city": "Olympia",
+    "latitude": 47.00581,
+    "longitude": -122.75285
+  },
+  {
+    "zip": 98516,
+    "city": "Olympia",
+    "latitude": 47.085046,
+    "longitude": -122.78376
+  },
+  {
+    "zip": 98520,
+    "city": "Aberdeen",
+    "latitude": 46.972965,
+    "longitude": -123.81923
+  },
+  {
+    "zip": 98522,
+    "city": "Adna",
+    "latitude": 46.571323,
+    "longitude": -123.298384
+  },
+  {
+    "zip": 98524,
+    "city": "Allyn",
+    "latitude": 47.374343,
+    "longitude": -122.8388
+  },
+  {
+    "zip": 98526,
+    "city": "Amanda Park",
+    "latitude": 47.463965,
+    "longitude": -124.02938
+  },
+  {
+    "zip": 98527,
+    "city": "Bay Center",
+    "latitude": 46.630051,
+    "longitude": -123.95463
+  },
+  {
+    "zip": 98528,
+    "city": "Belfair",
+    "latitude": 47.445292,
+    "longitude": -122.88417
+  },
+  {
+    "zip": 98530,
+    "city": "Bucoda",
+    "latitude": 46.797382,
+    "longitude": -122.85123
+  },
+  {
+    "zip": 98531,
+    "city": "Centralia",
+    "latitude": 46.728383,
+    "longitude": -122.95142
+  },
+  {
+    "zip": 98532,
+    "city": "Chehalis",
+    "latitude": 46.630721,
+    "longitude": -123.01599
+  },
+  {
+    "zip": 98533,
+    "city": "Cinebar",
+    "latitude": 46.588026,
+    "longitude": -122.53345
+  },
+  {
+    "zip": 98535,
+    "city": "Copalis Beach",
+    "latitude": 47.118566,
+    "longitude": -124.16027
+  },
+  {
+    "zip": 98536,
+    "city": "Copalis Crossing",
+    "latitude": 47.179475,
+    "longitude": -124.14241
+  },
+  {
+    "zip": 98537,
+    "city": "Cosmopolis",
+    "latitude": 46.899189,
+    "longitude": -123.6907
+  },
+  {
+    "zip": 98538,
+    "city": "Curtis",
+    "latitude": 46.483547,
+    "longitude": -123.1016
+  },
+  {
+    "zip": 98539,
+    "city": "Doty",
+    "latitude": 46.637787,
+    "longitude": -123.2798
+  },
+  {
+    "zip": 98540,
+    "city": "East Olympia",
+    "latitude": 46.978118,
+    "longitude": -122.702393
+  },
+  {
+    "zip": 98541,
+    "city": "Elma",
+    "latitude": 47.03575,
+    "longitude": -123.40713
+  },
+  {
+    "zip": 98542,
+    "city": "Ethel",
+    "latitude": 46.532624,
+    "longitude": -122.74407
+  },
+  {
+    "zip": 98544,
+    "city": "Galvin",
+    "latitude": 46.734909,
+    "longitude": -123.02536
+  },
+  {
+    "zip": 98546,
+    "city": "Grapeview",
+    "latitude": 47.321442,
+    "longitude": -122.92935
+  },
+  {
+    "zip": 98547,
+    "city": "Grayland",
+    "latitude": 46.781978,
+    "longitude": -124.08111
+  },
+  {
+    "zip": 98548,
+    "city": "Hoodsport",
+    "latitude": 47.446725,
+    "longitude": -123.21175
+  },
+  {
+    "zip": 98550,
+    "city": "Hoquiam",
+    "latitude": 47.026913,
+    "longitude": -123.91732
+  },
+  {
+    "zip": 98552,
+    "city": "Humptulips",
+    "latitude": 47.355226,
+    "longitude": -123.90189
+  },
+  {
+    "zip": 98554,
+    "city": "Lebam",
+    "latitude": 46.561375,
+    "longitude": -123.54788
+  },
+  {
+    "zip": 98555,
+    "city": "Lilliwaup",
+    "latitude": 47.521614,
+    "longitude": -123.06888
+  },
+  {
+    "zip": 98556,
+    "city": "Littlerock",
+    "latitude": 46.902376,
+    "longitude": -123.017043
+  },
+  {
+    "zip": 98557,
+    "city": "Mccleary",
+    "latitude": 47.054419,
+    "longitude": -123.2739
+  },
+  {
+    "zip": 98558,
+    "city": "Mckenna",
+    "latitude": 46.955863,
+    "longitude": -122.55585
+  },
+  {
+    "zip": 98559,
+    "city": "Malone",
+    "latitude": 46.959091,
+    "longitude": -123.32595
+  },
+  {
+    "zip": 98560,
+    "city": "Matlock",
+    "latitude": 47.26332,
+    "longitude": -123.43097
+  },
+  {
+    "zip": 98561,
+    "city": "Menlo",
+    "latitude": 46.514625,
+    "longitude": -123.76903
+  },
+  {
+    "zip": 98562,
+    "city": "Moclips",
+    "latitude": 47.254009,
+    "longitude": -124.20789
+  },
+  {
+    "zip": 98563,
+    "city": "Montesano",
+    "latitude": 47.034615,
+    "longitude": -123.60332
+  },
+  {
+    "zip": 98564,
+    "city": "Mossyrock",
+    "latitude": 46.50494,
+    "longitude": -122.48668
+  },
+  {
+    "zip": 98565,
+    "city": "Napavine",
+    "latitude": 46.580105,
+    "longitude": -122.90699
+  },
+  {
+    "zip": 98566,
+    "city": "Neilton",
+    "latitude": 47.387674,
+    "longitude": -123.890317
+  },
+  {
+    "zip": 98568,
+    "city": "Oakville",
+    "latitude": 46.84066,
+    "longitude": -123.25649
+  },
+  {
+    "zip": 98569,
+    "city": "Ocean Shores",
+    "latitude": 46.983877,
+    "longitude": -124.15607
+  },
+  {
+    "zip": 98570,
+    "city": "Onalaska",
+    "latitude": 46.593526,
+    "longitude": -122.65346
+  },
+  {
+    "zip": 98571,
+    "city": "Pacific Beach",
+    "latitude": 47.216861,
+    "longitude": -124.1974
+  },
+  {
+    "zip": 98572,
+    "city": "Pe Ell",
+    "latitude": 46.569107,
+    "longitude": -123.30578
+  },
+  {
+    "zip": 98575,
+    "city": "Quinault",
+    "latitude": 47.489864,
+    "longitude": -123.81031
+  },
+  {
+    "zip": 98576,
+    "city": "Rainier",
+    "latitude": 46.871178,
+    "longitude": -122.67573
+  },
+  {
+    "zip": 98577,
+    "city": "Raymond",
+    "latitude": 46.668744,
+    "longitude": -123.67708
+  },
+  {
+    "zip": 98579,
+    "city": "Rochester",
+    "latitude": 46.814438,
+    "longitude": -123.08647
+  },
+  {
+    "zip": 98580,
+    "city": "Roy",
+    "latitude": 46.954282,
+    "longitude": -122.48754
+  },
+  {
+    "zip": 98581,
+    "city": "Ryderwood",
+    "latitude": 46.373347,
+    "longitude": -123.05308
+  },
+  {
+    "zip": 98582,
+    "city": "Salkum",
+    "latitude": 46.513653,
+    "longitude": -122.62556
+  },
+  {
+    "zip": 98583,
+    "city": "Satsop",
+    "latitude": 47.002178,
+    "longitude": -123.483596
+  },
+  {
+    "zip": 98584,
+    "city": "Shelton",
+    "latitude": 47.224044,
+    "longitude": -123.10538
+  },
+  {
+    "zip": 98585,
+    "city": "Silver Creek",
+    "latitude": 46.528282,
+    "longitude": -122.57616
+  },
+  {
+    "zip": 98586,
+    "city": "South Bend",
+    "latitude": 46.560786,
+    "longitude": -123.85214
+  },
+  {
+    "zip": 98587,
+    "city": "Taholah",
+    "latitude": 47.32251,
+    "longitude": -124.25814
+  },
+  {
+    "zip": 98588,
+    "city": "Tahuya",
+    "latitude": 47.433993,
+    "longitude": -123.02078
+  },
+  {
+    "zip": 98589,
+    "city": "Tenino",
+    "latitude": 46.857968,
+    "longitude": -122.8326
+  },
+  {
+    "zip": 98590,
+    "city": "Tokeland",
+    "latitude": 46.737458,
+    "longitude": -123.98121
+  },
+  {
+    "zip": 98591,
+    "city": "Toledo",
+    "latitude": 46.433226,
+    "longitude": -122.80083
+  },
+  {
+    "zip": 98592,
+    "city": "Union",
+    "latitude": 47.33179,
+    "longitude": -123.07403
+  },
+  {
+    "zip": 98593,
+    "city": "Vader",
+    "latitude": 46.40521,
+    "longitude": -122.9827
+  },
+  {
+    "zip": 98595,
+    "city": "Westport",
+    "latitude": 46.887187,
+    "longitude": -124.10735
+  },
+  {
+    "zip": 98596,
+    "city": "Winlock",
+    "latitude": 46.493247,
+    "longitude": -122.92262
+  },
+  {
+    "zip": 98597,
+    "city": "Yelm",
+    "latitude": 46.893352,
+    "longitude": -122.56719
+  },
+  {
+    "zip": 98599,
+    "city": "Olympia",
+    "latitude": 46.978118,
+    "longitude": -122.702393
+  },
+  {
+    "zip": 98601,
+    "city": "Amboy",
+    "latitude": 45.935656,
+    "longitude": -122.43726
+  },
+  {
+    "zip": 98602,
+    "city": "Appleton",
+    "latitude": 45.844123,
+    "longitude": -121.29141
+  },
+  {
+    "zip": 98603,
+    "city": "Ariel",
+    "latitude": 46.001752,
+    "longitude": -122.45624
+  },
+  {
+    "zip": 98604,
+    "city": "Battle Ground",
+    "latitude": 45.791345,
+    "longitude": -122.51789
+  },
+  {
+    "zip": 98605,
+    "city": "Bingen",
+    "latitude": 45.719294,
+    "longitude": -121.47838
+  },
+  {
+    "zip": 98606,
+    "city": "Brush Prairie",
+    "latitude": 45.73451,
+    "longitude": -122.48034
+  },
+  {
+    "zip": 98607,
+    "city": "Camas",
+    "latitude": 45.60916,
+    "longitude": -122.40547
+  },
+  {
+    "zip": 98609,
+    "city": "Carrolls",
+    "latitude": 46.071482,
+    "longitude": -122.864838
+  },
+  {
+    "zip": 98610,
+    "city": "Carson",
+    "latitude": 45.801513,
+    "longitude": -121.91147
+  },
+  {
+    "zip": 98611,
+    "city": "Castle Rock",
+    "latitude": 46.308371,
+    "longitude": -122.8987
+  },
+  {
+    "zip": 98612,
+    "city": "Cathlamet",
+    "latitude": 46.208318,
+    "longitude": -123.34624
+  },
+  {
+    "zip": 98613,
+    "city": "Centerville",
+    "latitude": 45.722786,
+    "longitude": -120.96163
+  },
+  {
+    "zip": 98614,
+    "city": "Chinook",
+    "latitude": 46.282397,
+    "longitude": -123.93844
+  },
+  {
+    "zip": 98616,
+    "city": "Cougar",
+    "latitude": 46.06517,
+    "longitude": -122.29411
+  },
+  {
+    "zip": 98617,
+    "city": "Dallesport",
+    "latitude": 45.632051,
+    "longitude": -121.16835
+  },
+  {
+    "zip": 98619,
+    "city": "Glenwood",
+    "latitude": 46.018228,
+    "longitude": -121.28904
+  },
+  {
+    "zip": 98620,
+    "city": "Goldendale",
+    "latitude": 45.846697,
+    "longitude": -120.75703
+  },
+  {
+    "zip": 98621,
+    "city": "Grays River",
+    "latitude": 46.348706,
+    "longitude": -123.58307
+  },
+  {
+    "zip": 98622,
+    "city": "Heisson",
+    "latitude": 45.801586,
+    "longitude": -122.520347
+  },
+  {
+    "zip": 98623,
+    "city": "Husum",
+    "latitude": 45.807631,
+    "longitude": -121.487682
+  },
+  {
+    "zip": 98624,
+    "city": "Ilwaco",
+    "latitude": 46.312541,
+    "longitude": -124.02968
+  },
+  {
+    "zip": 98625,
+    "city": "Kalama",
+    "latitude": 46.015873,
+    "longitude": -122.79718
+  },
+  {
+    "zip": 98626,
+    "city": "Kelso",
+    "latitude": 46.150433,
+    "longitude": -122.88566
+  },
+  {
+    "zip": 98628,
+    "city": "Klickitat",
+    "latitude": 45.82786,
+    "longitude": -121.09804
+  },
+  {
+    "zip": 98629,
+    "city": "La Center",
+    "latitude": 45.8768,
+    "longitude": -122.62193
+  },
+  {
+    "zip": 98631,
+    "city": "Long Beach",
+    "latitude": 46.365773,
+    "longitude": -124.05022
+  },
+  {
+    "zip": 98632,
+    "city": "Longview",
+    "latitude": 46.156082,
+    "longitude": -122.98043
+  },
+  {
+    "zip": 98635,
+    "city": "Lyle",
+    "latitude": 45.726451,
+    "longitude": -121.19784
+  },
+  {
+    "zip": 98637,
+    "city": "Nahcotta",
+    "latitude": 46.514625,
+    "longitude": -123.76903
+  },
+  {
+    "zip": 98638,
+    "city": "Naselle",
+    "latitude": 46.370075,
+    "longitude": -123.76506
+  },
+  {
+    "zip": 98639,
+    "city": "North Bonneville",
+    "latitude": 45.650041,
+    "longitude": -121.97167
+  },
+  {
+    "zip": 98640,
+    "city": "Ocean Park",
+    "latitude": 46.501781,
+    "longitude": -124.04801
+  },
+  {
+    "zip": 98641,
+    "city": "Oysterville",
+    "latitude": 46.554,
+    "longitude": -124.02626
+  },
+  {
+    "zip": 98642,
+    "city": "Ridgefield",
+    "latitude": 45.795825,
+    "longitude": -122.69804
+  },
+  {
+    "zip": 98643,
+    "city": "Rosburg",
+    "latitude": 46.302905,
+    "longitude": -123.62473
+  },
+  {
+    "zip": 98644,
+    "city": "Seaview",
+    "latitude": 46.332077,
+    "longitude": -124.05517
+  },
+  {
+    "zip": 98645,
+    "city": "Silverlake",
+    "latitude": 46.318482,
+    "longitude": -122.7757
+  },
+  {
+    "zip": 98647,
+    "city": "Skamokawa",
+    "latitude": 46.296658,
+    "longitude": -123.46828
+  },
+  {
+    "zip": 98648,
+    "city": "Stevenson",
+    "latitude": 45.669604,
+    "longitude": -121.91332
+  },
+  {
+    "zip": 98649,
+    "city": "Toutle",
+    "latitude": 46.352771,
+    "longitude": -122.66054
+  },
+  {
+    "zip": 98650,
+    "city": "Trout Lake",
+    "latitude": 45.981582,
+    "longitude": -121.5395
+  },
+  {
+    "zip": 98651,
+    "city": "Underwood",
+    "latitude": 45.730656,
+    "longitude": -121.57558
+  },
+  {
+    "zip": 98653,
+    "city": "Lyle",
+    "latitude": 45.694098,
+    "longitude": -121.286091
+  },
+  {
+    "zip": 98655,
+    "city": "Hazel Dell North",
+    "latitude": 45.678557,
+    "longitude": -122.663954
+  },
+  {
+    "zip": 98660,
+    "city": "Vancouver",
+    "latitude": 45.652255,
+    "longitude": -122.69009
+  },
+  {
+    "zip": 98661,
+    "city": "Vancouver",
+    "latitude": 45.63873,
+    "longitude": -122.62846
+  },
+  {
+    "zip": 98662,
+    "city": "Vancouver",
+    "latitude": 45.671806,
+    "longitude": -122.57894
+  },
+  {
+    "zip": 98663,
+    "city": "Vancouver",
+    "latitude": 45.647667,
+    "longitude": -122.66162
+  },
+  {
+    "zip": 98664,
+    "city": "Vancouver",
+    "latitude": 45.62104,
+    "longitude": -122.57947
+  },
+  {
+    "zip": 98665,
+    "city": "Vancouver",
+    "latitude": 45.681271,
+    "longitude": -122.66712
+  },
+  {
+    "zip": 98666,
+    "city": "Vancouver",
+    "latitude": 45.801586,
+    "longitude": -122.520347
+  },
+  {
+    "zip": 98667,
+    "city": "Vancouver",
+    "latitude": 45.801586,
+    "longitude": -122.520347
+  },
+  {
+    "zip": 98668,
+    "city": "Vancouver",
+    "latitude": 45.801586,
+    "longitude": -122.520347
+  },
+  {
+    "zip": 98670,
+    "city": "Wahkiacus",
+    "latitude": 45.859065,
+    "longitude": -121.14615
+  },
+  {
+    "zip": 98671,
+    "city": "Washougal",
+    "latitude": 45.594465,
+    "longitude": -122.28112
+  },
+  {
+    "zip": 98672,
+    "city": "White Salmon",
+    "latitude": 45.786727,
+    "longitude": -121.47523
+  },
+  {
+    "zip": 98673,
+    "city": "Wishram",
+    "latitude": 45.661878,
+    "longitude": -120.94997
+  },
+  {
+    "zip": 98674,
+    "city": "Woodland",
+    "latitude": 45.928662,
+    "longitude": -122.70284
+  },
+  {
+    "zip": 98675,
+    "city": "Yacolt",
+    "latitude": 45.843674,
+    "longitude": -122.39221
+  },
+  {
+    "zip": 98682,
+    "city": "Vancouver",
+    "latitude": 45.67309,
+    "longitude": -122.51319
+  },
+  {
+    "zip": 98683,
+    "city": "Vancouver",
+    "latitude": 45.604075,
+    "longitude": -122.51035
+  },
+  {
+    "zip": 98684,
+    "city": "Vancouver",
+    "latitude": 45.627459,
+    "longitude": -122.52023
+  },
+  {
+    "zip": 98685,
+    "city": "Vancouver",
+    "latitude": 45.709555,
+    "longitude": -122.68473
+  },
+  {
+    "zip": 98686,
+    "city": "Vancouver",
+    "latitude": 45.712623,
+    "longitude": -122.63419
+  },
+  {
+    "zip": 98687,
+    "city": "Vancouver",
+    "latitude": 45.801586,
+    "longitude": -122.520347
+  },
+  {
+    "zip": 98731,
+    "city": "Waller",
+    "latitude": 47.185462,
+    "longitude": -122.353089
+  },
+  {
+    "zip": 98801,
+    "city": "Wenatchee",
+    "latitude": 47.425497,
+    "longitude": -120.32881
+  },
+  {
+    "zip": 98802,
+    "city": "East Wenatchee",
+    "latitude": 47.436898,
+    "longitude": -120.25742
+  },
+  {
+    "zip": 98807,
+    "city": "Wenatchee",
+    "latitude": 47.905787,
+    "longitude": -120.520211
+  },
+  {
+    "zip": 98811,
+    "city": "Ardenvoir",
+    "latitude": 47.737028,
+    "longitude": -120.37126
+  },
+  {
+    "zip": 98812,
+    "city": "Brewster",
+    "latitude": 48.112268,
+    "longitude": -119.75203
+  },
+  {
+    "zip": 98813,
+    "city": "Bridgeport",
+    "latitude": 47.999618,
+    "longitude": -119.66129
+  },
+  {
+    "zip": 98814,
+    "city": "Carlton",
+    "latitude": 48.231421,
+    "longitude": -120.12065
+  },
+  {
+    "zip": 98815,
+    "city": "Cashmere",
+    "latitude": 47.522546,
+    "longitude": -120.48966
+  },
+  {
+    "zip": 98816,
+    "city": "Chelan",
+    "latitude": 47.880774,
+    "longitude": -120.08379
+  },
+  {
+    "zip": 98817,
+    "city": "Chelan Falls",
+    "latitude": 47.79955,
+    "longitude": -119.98921
+  },
+  {
+    "zip": 98819,
+    "city": "Conconully",
+    "latitude": 48.559477,
+    "longitude": -119.75474
+  },
+  {
+    "zip": 98821,
+    "city": "Dryden",
+    "latitude": 47.541723,
+    "longitude": -120.5614
+  },
+  {
+    "zip": 98822,
+    "city": "Entiat",
+    "latitude": 47.782158,
+    "longitude": -120.35944
+  },
+  {
+    "zip": 98823,
+    "city": "Ephrata",
+    "latitude": 47.297368,
+    "longitude": -119.57129
+  },
+  {
+    "zip": 98824,
+    "city": "George",
+    "latitude": 47.079243,
+    "longitude": -119.860117
+  },
+  {
+    "zip": 98826,
+    "city": "Leavenworth",
+    "latitude": 47.728186,
+    "longitude": -120.73874
+  },
+  {
+    "zip": 98827,
+    "city": "Loomis",
+    "latitude": 48.885618,
+    "longitude": -119.68939
+  },
+  {
+    "zip": 98828,
+    "city": "Malaga",
+    "latitude": 47.333821,
+    "longitude": -120.19929
+  },
+  {
+    "zip": 98829,
+    "city": "Malott",
+    "latitude": 48.267188,
+    "longitude": -119.73538
+  },
+  {
+    "zip": 98830,
+    "city": "Mansfield",
+    "latitude": 47.880616,
+    "longitude": -119.54481
+  },
+  {
+    "zip": 98831,
+    "city": "Manson",
+    "latitude": 47.915227,
+    "longitude": -120.12934
+  },
+  {
+    "zip": 98832,
+    "city": "Marlin",
+    "latitude": 47.290624,
+    "longitude": -119.03268
+  },
+  {
+    "zip": 98833,
+    "city": "Mazama",
+    "latitude": 48.634796,
+    "longitude": -120.47681
+  },
+  {
+    "zip": 98834,
+    "city": "Methow",
+    "latitude": 48.138528,
+    "longitude": -120.02851
+  },
+  {
+    "zip": 98836,
+    "city": "Monitor",
+    "latitude": 47.481133,
+    "longitude": -120.41354
+  },
+  {
+    "zip": 98837,
+    "city": "Moses Lake",
+    "latitude": 47.133606,
+    "longitude": -119.28455
+  },
+  {
+    "zip": 98840,
+    "city": "Okanogan",
+    "latitude": 48.343356,
+    "longitude": -119.57656
+  },
+  {
+    "zip": 98841,
+    "city": "Omak",
+    "latitude": 48.403174,
+    "longitude": -119.39066
+  },
+  {
+    "zip": 98843,
+    "city": "Orondo",
+    "latitude": 47.745842,
+    "longitude": -120.09326
+  },
+  {
+    "zip": 98844,
+    "city": "Oroville",
+    "latitude": 48.9332,
+    "longitude": -119.38169
+  },
+  {
+    "zip": 98845,
+    "city": "Palisades",
+    "latitude": 47.466573,
+    "longitude": -119.82091
+  },
+  {
+    "zip": 98846,
+    "city": "Pateros",
+    "latitude": 48.03925,
+    "longitude": -119.9395
+  },
+  {
+    "zip": 98847,
+    "city": "Peshastin",
+    "latitude": 47.552462,
+    "longitude": -120.60457
+  },
+  {
+    "zip": 98848,
+    "city": "Quincy",
+    "latitude": 47.18227,
+    "longitude": -119.85868
+  },
+  {
+    "zip": 98849,
+    "city": "Riverside",
+    "latitude": 48.528793,
+    "longitude": -119.45276
+  },
+  {
+    "zip": 98850,
+    "city": "Rock Island",
+    "latitude": 47.360902,
+    "longitude": -120.11338
+  },
+  {
+    "zip": 98851,
+    "city": "Soap Lake",
+    "latitude": 47.400024,
+    "longitude": -119.4624
+  },
+  {
+    "zip": 98852,
+    "city": "Stehekin",
+    "latitude": 48.494944,
+    "longitude": -120.73348
+  },
+  {
+    "zip": 98853,
+    "city": "Stratford",
+    "latitude": 47.417461,
+    "longitude": -119.28312
+  },
+  {
+    "zip": 98855,
+    "city": "Tonasket",
+    "latitude": 48.689509,
+    "longitude": -119.32169
+  },
+  {
+    "zip": 98856,
+    "city": "Twisp",
+    "latitude": 48.359904,
+    "longitude": -120.13051
+  },
+  {
+    "zip": 98857,
+    "city": "Warden",
+    "latitude": 46.970666,
+    "longitude": -119.0672
+  },
+  {
+    "zip": 98858,
+    "city": "Waterville",
+    "latitude": 47.63205,
+    "longitude": -119.90423
+  },
+  {
+    "zip": 98859,
+    "city": "Wauconda",
+    "latitude": 48.810894,
+    "longitude": -118.93303
+  },
+  {
+    "zip": 98860,
+    "city": "Wilson Creek",
+    "latitude": 47.458634,
+    "longitude": -119.13921
+  },
+  {
+    "zip": 98862,
+    "city": "Winthrop",
+    "latitude": 48.488543,
+    "longitude": -120.24261
+  },
+  {
+    "zip": 98901,
+    "city": "Yakima",
+    "latitude": 46.616199,
+    "longitude": -120.46481
+  },
+  {
+    "zip": 98902,
+    "city": "Yakima",
+    "latitude": 46.595248,
+    "longitude": -120.53102
+  },
+  {
+    "zip": 98903,
+    "city": "Yakima",
+    "latitude": 46.550348,
+    "longitude": -120.62097
+  },
+  {
+    "zip": 98904,
+    "city": "Yakima",
+    "latitude": 46.56451,
+    "longitude": -120.694658
+  },
+  {
+    "zip": 98907,
+    "city": "Yakima",
+    "latitude": 46.628757,
+    "longitude": -120.573967
+  },
+  {
+    "zip": 98908,
+    "city": "Yakima",
+    "latitude": 46.605303,
+    "longitude": -120.61762
+  },
+  {
+    "zip": 98909,
+    "city": "Yakima",
+    "latitude": 46.637538,
+    "longitude": -120.794978
+  },
+  {
+    "zip": 98920,
+    "city": "Brownstown",
+    "latitude": 46.56451,
+    "longitude": -120.694658
+  },
+  {
+    "zip": 98921,
+    "city": "Buena",
+    "latitude": 46.421218,
+    "longitude": -120.315141
+  },
+  {
+    "zip": 98922,
+    "city": "Cle Elum",
+    "latitude": 47.19377,
+    "longitude": -120.91733
+  },
+  {
+    "zip": 98923,
+    "city": "Cowiche",
+    "latitude": 46.662006,
+    "longitude": -120.71558
+  },
+  {
+    "zip": 98925,
+    "city": "Easton",
+    "latitude": 47.3042,
+    "longitude": -121.24849
+  },
+  {
+    "zip": 98926,
+    "city": "Ellensburg",
+    "latitude": 47.009726,
+    "longitude": -120.52364
+  },
+  {
+    "zip": 98929,
+    "city": "Goose Prairie",
+    "latitude": 46.915735,
+    "longitude": -121.241591
+  },
+  {
+    "zip": 98930,
+    "city": "Grandview",
+    "latitude": 46.260129,
+    "longitude": -119.90614
+  },
+  {
+    "zip": 98932,
+    "city": "Granger",
+    "latitude": 46.345166,
+    "longitude": -120.1843
+  },
+  {
+    "zip": 98933,
+    "city": "Harrah",
+    "latitude": 46.406875,
+    "longitude": -120.62421
+  },
+  {
+    "zip": 98934,
+    "city": "Kittitas",
+    "latitude": 46.984565,
+    "longitude": -120.41782
+  },
+  {
+    "zip": 98935,
+    "city": "Mabton",
+    "latitude": 46.177732,
+    "longitude": -120.02966
+  },
+  {
+    "zip": 98936,
+    "city": "Moxee",
+    "latitude": 46.540842,
+    "longitude": -120.33322
+  },
+  {
+    "zip": 98937,
+    "city": "Naches",
+    "latitude": 46.71207,
+    "longitude": -120.97097
+  },
+  {
+    "zip": 98938,
+    "city": "Outlook",
+    "latitude": 46.364164,
+    "longitude": -120.09871
+  },
+  {
+    "zip": 98939,
+    "city": "Parker",
+    "latitude": 46.56451,
+    "longitude": -120.694658
+  },
+  {
+    "zip": 98940,
+    "city": "Ronald",
+    "latitude": 47.33394,
+    "longitude": -121.02979
+  },
+  {
+    "zip": 98941,
+    "city": "Roslyn",
+    "latitude": 47.224876,
+    "longitude": -120.99286
+  },
+  {
+    "zip": 98942,
+    "city": "Selah",
+    "latitude": 46.726395,
+    "longitude": -120.56997
+  },
+  {
+    "zip": 98943,
+    "city": "South Cle Elum",
+    "latitude": 47.186592,
+    "longitude": -120.95503
+  },
+  {
+    "zip": 98944,
+    "city": "Sunnyside",
+    "latitude": 46.342102,
+    "longitude": -119.99
+  },
+  {
+    "zip": 98946,
+    "city": "Thorp",
+    "latitude": 47.087352,
+    "longitude": -120.71232
+  },
+  {
+    "zip": 98947,
+    "city": "Tieton",
+    "latitude": 46.707735,
+    "longitude": -120.75713
+  },
+  {
+    "zip": 98948,
+    "city": "Toppenish",
+    "latitude": 46.35653,
+    "longitude": -120.33462
+  },
+  {
+    "zip": 98950,
+    "city": "Vantage",
+    "latitude": 46.880413,
+    "longitude": -119.98939
+  },
+  {
+    "zip": 98951,
+    "city": "Wapato",
+    "latitude": 46.457731,
+    "longitude": -120.46721
+  },
+  {
+    "zip": 98952,
+    "city": "White Swan",
+    "latitude": 46.377579,
+    "longitude": -120.7144
+  },
+  {
+    "zip": 98953,
+    "city": "Zillah",
+    "latitude": 46.418933,
+    "longitude": -120.26699
+  },
+  {
+    "zip": 98991,
+    "city": "Roslyn",
+    "latitude": 47.221837,
+    "longitude": -120.993126
+  },
+  {
+    "zip": 99001,
+    "city": "Airway Heights",
+    "latitude": 47.642922,
+    "longitude": -117.59149
+  },
+  {
+    "zip": 99003,
+    "city": "Chattaroy",
+    "latitude": 47.921687,
+    "longitude": -117.29378
+  },
+  {
+    "zip": 99004,
+    "city": "Cheney",
+    "latitude": 47.466974,
+    "longitude": -117.60575
+  },
+  {
+    "zip": 99005,
+    "city": "Colbert",
+    "latitude": 47.844289,
+    "longitude": -117.37274
+  },
+  {
+    "zip": 99006,
+    "city": "Deer Park",
+    "latitude": 47.966471,
+    "longitude": -117.48145
+  },
+  {
+    "zip": 99008,
+    "city": "Edwall",
+    "latitude": 47.50505,
+    "longitude": -117.93432
+  },
+  {
+    "zip": 99009,
+    "city": "Elk",
+    "latitude": 48.041663,
+    "longitude": -117.24891
+  },
+  {
+    "zip": 99011,
+    "city": "Fairchild Air Force Base",
+    "latitude": 47.595572,
+    "longitude": -117.67344
+  },
+  {
+    "zip": 99012,
+    "city": "Fairfield",
+    "latitude": 47.383651,
+    "longitude": -117.18568
+  },
+  {
+    "zip": 99013,
+    "city": "Ford",
+    "latitude": 47.889348,
+    "longitude": -117.82325
+  },
+  {
+    "zip": 99014,
+    "city": "Four Lakes",
+    "latitude": 47.55988,
+    "longitude": -117.595751
+  },
+  {
+    "zip": 99015,
+    "city": "Freeman",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99016,
+    "city": "Greenacres",
+    "latitude": 47.648693,
+    "longitude": -117.15116
+  },
+  {
+    "zip": 99017,
+    "city": "Lamont",
+    "latitude": 47.197445,
+    "longitude": -117.85558
+  },
+  {
+    "zip": 99018,
+    "city": "Latah",
+    "latitude": 47.277842,
+    "longitude": -117.13639
+  },
+  {
+    "zip": 99019,
+    "city": "Liberty Lake",
+    "latitude": 47.656171,
+    "longitude": -117.08628
+  },
+  {
+    "zip": 99020,
+    "city": "Marshall",
+    "latitude": 47.563191,
+    "longitude": -117.4959
+  },
+  {
+    "zip": 99021,
+    "city": "Mead",
+    "latitude": 47.81108,
+    "longitude": -117.22306
+  },
+  {
+    "zip": 99022,
+    "city": "Medical Lake",
+    "latitude": 47.583754,
+    "longitude": -117.68812
+  },
+  {
+    "zip": 99023,
+    "city": "Mica",
+    "latitude": 47.554592,
+    "longitude": -117.18352
+  },
+  {
+    "zip": 99025,
+    "city": "Newman Lake",
+    "latitude": 47.751434,
+    "longitude": -117.06934
+  },
+  {
+    "zip": 99026,
+    "city": "Nine Mile Falls",
+    "latitude": 47.801194,
+    "longitude": -117.59325
+  },
+  {
+    "zip": 99027,
+    "city": "Otis Orchards",
+    "latitude": 47.703698,
+    "longitude": -117.12007
+  },
+  {
+    "zip": 99029,
+    "city": "Reardan",
+    "latitude": 47.693129,
+    "longitude": -117.86164
+  },
+  {
+    "zip": 99030,
+    "city": "Rockford",
+    "latitude": 47.463725,
+    "longitude": -117.11319
+  },
+  {
+    "zip": 99031,
+    "city": "Spangle",
+    "latitude": 47.432691,
+    "longitude": -117.37449
+  },
+  {
+    "zip": 99032,
+    "city": "Sprague",
+    "latitude": 47.273264,
+    "longitude": -117.99082
+  },
+  {
+    "zip": 99033,
+    "city": "Tekoa",
+    "latitude": 47.222328,
+    "longitude": -117.08133
+  },
+  {
+    "zip": 99034,
+    "city": "Tumtum",
+    "latitude": 47.858074,
+    "longitude": -117.74582
+  },
+  {
+    "zip": 99036,
+    "city": "Valleyford",
+    "latitude": 47.52507,
+    "longitude": -117.27054
+  },
+  {
+    "zip": 99037,
+    "city": "Veradale",
+    "latitude": 47.643346,
+    "longitude": -117.19993
+  },
+  {
+    "zip": 99039,
+    "city": "Waverly",
+    "latitude": 47.329704,
+    "longitude": -117.244981
+  },
+  {
+    "zip": 99040,
+    "city": "Wellpinit",
+    "latitude": 47.863857,
+    "longitude": -118.03661
+  },
+  {
+    "zip": 99066,
+    "city": "Deer Park",
+    "latitude": 47.951939,
+    "longitude": -117.472694
+  },
+  {
+    "zip": 99101,
+    "city": "Addy",
+    "latitude": 48.305861,
+    "longitude": -117.94318
+  },
+  {
+    "zip": 99102,
+    "city": "Albion",
+    "latitude": 46.793604,
+    "longitude": -117.25208
+  },
+  {
+    "zip": 99103,
+    "city": "Almira",
+    "latitude": 47.721863,
+    "longitude": -118.95554
+  },
+  {
+    "zip": 99104,
+    "city": "Belmont",
+    "latitude": 47.079345,
+    "longitude": -117.176954
+  },
+  {
+    "zip": 99105,
+    "city": "Benge",
+    "latitude": 46.866805,
+    "longitude": -118.13247
+  },
+  {
+    "zip": 99107,
+    "city": "Boyds",
+    "latitude": 48.84269,
+    "longitude": -118.182764
+  },
+  {
+    "zip": 99109,
+    "city": "Chewelah",
+    "latitude": 48.269784,
+    "longitude": -117.73437
+  },
+  {
+    "zip": 99110,
+    "city": "Clayton",
+    "latitude": 48.012084,
+    "longitude": -117.57306
+  },
+  {
+    "zip": 99111,
+    "city": "Colfax",
+    "latitude": 46.875136,
+    "longitude": -117.4092
+  },
+  {
+    "zip": 99113,
+    "city": "Colton",
+    "latitude": 46.577614,
+    "longitude": -117.16133
+  },
+  {
+    "zip": 99114,
+    "city": "Colville",
+    "latitude": 48.658512,
+    "longitude": -117.7671
+  },
+  {
+    "zip": 99115,
+    "city": "Coulee City",
+    "latitude": 47.646132,
+    "longitude": -119.3827
+  },
+  {
+    "zip": 99116,
+    "city": "Coulee Dam",
+    "latitude": 47.995847,
+    "longitude": -118.95862
+  },
+  {
+    "zip": 99117,
+    "city": "Creston",
+    "latitude": 47.757764,
+    "longitude": -118.49343
+  },
+  {
+    "zip": 99118,
+    "city": "Curlew",
+    "latitude": 48.890892,
+    "longitude": -118.64475
+  },
+  {
+    "zip": 99119,
+    "city": "Cusick",
+    "latitude": 48.504786,
+    "longitude": -117.31689
+  },
+  {
+    "zip": 99121,
+    "city": "Danville",
+    "latitude": 48.977629,
+    "longitude": -118.51457
+  },
+  {
+    "zip": 99122,
+    "city": "Davenport",
+    "latitude": 47.671143,
+    "longitude": -118.18938
+  },
+  {
+    "zip": 99123,
+    "city": "Electric City",
+    "latitude": 47.907923,
+    "longitude": -119.06531
+  },
+  {
+    "zip": 99124,
+    "city": "Elmer City",
+    "latitude": 47.998468,
+    "longitude": -118.95248
+  },
+  {
+    "zip": 99125,
+    "city": "Endicott",
+    "latitude": 46.941628,
+    "longitude": -117.7293
+  },
+  {
+    "zip": 99126,
+    "city": "Evans",
+    "latitude": 48.733324,
+    "longitude": -117.97348
+  },
+  {
+    "zip": 99127,
+    "city": "Saint John",
+    "latitude": 46.838747,
+    "longitude": -117.644337
+  },
+  {
+    "zip": 99129,
+    "city": "Fruitland",
+    "latitude": 48.003202,
+    "longitude": -118.21339
+  },
+  {
+    "zip": 99130,
+    "city": "Garfield",
+    "latitude": 46.983768,
+    "longitude": -117.19597
+  },
+  {
+    "zip": 99131,
+    "city": "Gifford",
+    "latitude": 48.290089,
+    "longitude": -118.09326
+  },
+  {
+    "zip": 99133,
+    "city": "Grand Coulee",
+    "latitude": 47.947097,
+    "longitude": -119.00713
+  },
+  {
+    "zip": 99134,
+    "city": "Harrington",
+    "latitude": 47.460312,
+    "longitude": -118.38258
+  },
+  {
+    "zip": 99135,
+    "city": "Hartline",
+    "latitude": 47.641983,
+    "longitude": -119.08897
+  },
+  {
+    "zip": 99136,
+    "city": "Hay",
+    "latitude": 46.669207,
+    "longitude": -117.96015
+  },
+  {
+    "zip": 99137,
+    "city": "Hunters",
+    "latitude": 48.174649,
+    "longitude": -118.11361
+  },
+  {
+    "zip": 99138,
+    "city": "Inchelium",
+    "latitude": 48.207661,
+    "longitude": -118.2979
+  },
+  {
+    "zip": 99139,
+    "city": "Ione",
+    "latitude": 48.736168,
+    "longitude": -117.4111
+  },
+  {
+    "zip": 99140,
+    "city": "Keller",
+    "latitude": 48.080515,
+    "longitude": -118.69498
+  },
+  {
+    "zip": 99141,
+    "city": "Kettle Falls",
+    "latitude": 48.690209,
+    "longitude": -118.10045
+  },
+  {
+    "zip": 99143,
+    "city": "Lacrosse",
+    "latitude": 46.792982,
+    "longitude": -117.91313
+  },
+  {
+    "zip": 99144,
+    "city": "Lamona",
+    "latitude": 47.60894,
+    "longitude": -118.399551
+  },
+  {
+    "zip": 99146,
+    "city": "Laurier",
+    "latitude": 48.92816,
+    "longitude": -118.2897
+  },
+  {
+    "zip": 99147,
+    "city": "Lincoln",
+    "latitude": 47.60894,
+    "longitude": -118.399551
+  },
+  {
+    "zip": 99148,
+    "city": "Loon Lake",
+    "latitude": 48.102048,
+    "longitude": -117.6013
+  },
+  {
+    "zip": 99149,
+    "city": "Malden",
+    "latitude": 47.227436,
+    "longitude": -117.47364
+  },
+  {
+    "zip": 99150,
+    "city": "Malo",
+    "latitude": 48.810879,
+    "longitude": -118.59088
+  },
+  {
+    "zip": 99151,
+    "city": "Marcus",
+    "latitude": 48.664206,
+    "longitude": -118.06417
+  },
+  {
+    "zip": 99152,
+    "city": "Metaline",
+    "latitude": 48.858688,
+    "longitude": -117.39106
+  },
+  {
+    "zip": 99153,
+    "city": "Metaline Falls",
+    "latitude": 48.858518,
+    "longitude": -117.29833
+  },
+  {
+    "zip": 99154,
+    "city": "Mohler",
+    "latitude": 47.376884,
+    "longitude": -118.3799
+  },
+  {
+    "zip": 99155,
+    "city": "Nespelem",
+    "latitude": 48.17266,
+    "longitude": -119.00126
+  },
+  {
+    "zip": 99156,
+    "city": "Newport",
+    "latitude": 48.159752,
+    "longitude": -117.16984
+  },
+  {
+    "zip": 99157,
+    "city": "Northport",
+    "latitude": 48.897876,
+    "longitude": -117.81647
+  },
+  {
+    "zip": 99158,
+    "city": "Oakesdale",
+    "latitude": 47.136249,
+    "longitude": -117.25463
+  },
+  {
+    "zip": 99159,
+    "city": "Odessa",
+    "latitude": 47.338736,
+    "longitude": -118.70235
+  },
+  {
+    "zip": 99160,
+    "city": "Orient",
+    "latitude": 48.86407,
+    "longitude": -118.20557
+  },
+  {
+    "zip": 99161,
+    "city": "Palouse",
+    "latitude": 46.905132,
+    "longitude": -117.10575
+  },
+  {
+    "zip": 99163,
+    "city": "Pullman",
+    "latitude": 46.732705,
+    "longitude": -117.18648
+  },
+  {
+    "zip": 99164,
+    "city": "Pullman",
+    "latitude": 46.838747,
+    "longitude": -117.644337
+  },
+  {
+    "zip": 99165,
+    "city": "Pullman",
+    "latitude": 46.838747,
+    "longitude": -117.644337
+  },
+  {
+    "zip": 99166,
+    "city": "Republic",
+    "latitude": 48.657684,
+    "longitude": -118.72647
+  },
+  {
+    "zip": 99167,
+    "city": "Rice",
+    "latitude": 48.406582,
+    "longitude": -118.11029
+  },
+  {
+    "zip": 99169,
+    "city": "Ritzville",
+    "latitude": 47.107228,
+    "longitude": -118.43136
+  },
+  {
+    "zip": 99170,
+    "city": "Rosalia",
+    "latitude": 47.240334,
+    "longitude": -117.37365
+  },
+  {
+    "zip": 99171,
+    "city": "Saint John",
+    "latitude": 47.11653,
+    "longitude": -117.63938
+  },
+  {
+    "zip": 99173,
+    "city": "Springdale",
+    "latitude": 48.030848,
+    "longitude": -117.79563
+  },
+  {
+    "zip": 99174,
+    "city": "Steptoe",
+    "latitude": 46.838747,
+    "longitude": -117.644337
+  },
+  {
+    "zip": 99176,
+    "city": "Thornton",
+    "latitude": 47.117965,
+    "longitude": -117.41047
+  },
+  {
+    "zip": 99179,
+    "city": "Uniontown",
+    "latitude": 46.516794,
+    "longitude": -117.08202
+  },
+  {
+    "zip": 99180,
+    "city": "Usk",
+    "latitude": 48.295497,
+    "longitude": -117.29236
+  },
+  {
+    "zip": 99181,
+    "city": "Valley",
+    "latitude": 48.144634,
+    "longitude": -117.74564
+  },
+  {
+    "zip": 99185,
+    "city": "Wilbur",
+    "latitude": 47.756616,
+    "longitude": -118.70628
+  },
+  {
+    "zip": 99201,
+    "city": "Spokane",
+    "latitude": 47.663945,
+    "longitude": -117.43185
+  },
+  {
+    "zip": 99202,
+    "city": "Spokane",
+    "latitude": 47.656692,
+    "longitude": -117.37899
+  },
+  {
+    "zip": 99203,
+    "city": "Spokane",
+    "latitude": 47.629091,
+    "longitude": -117.40636
+  },
+  {
+    "zip": 99204,
+    "city": "Spokane",
+    "latitude": 47.648941,
+    "longitude": -117.43174
+  },
+  {
+    "zip": 99205,
+    "city": "Spokane",
+    "latitude": 47.69399,
+    "longitude": -117.43979
+  },
+  {
+    "zip": 99206,
+    "city": "Spokane",
+    "latitude": 47.646994,
+    "longitude": -117.25912
+  },
+  {
+    "zip": 99207,
+    "city": "Spokane",
+    "latitude": 47.693741,
+    "longitude": -117.38829
+  },
+  {
+    "zip": 99208,
+    "city": "Spokane",
+    "latitude": 47.740491,
+    "longitude": -117.43916
+  },
+  {
+    "zip": 99209,
+    "city": "Spokane",
+    "latitude": 47.646148,
+    "longitude": -117.793734
+  },
+  {
+    "zip": 99210,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99211,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99212,
+    "city": "Spokane",
+    "latitude": 47.668926,
+    "longitude": -117.30668
+  },
+  {
+    "zip": 99213,
+    "city": "Spokane",
+    "latitude": 47.656726,
+    "longitude": -117.282483
+  },
+  {
+    "zip": 99214,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99215,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99216,
+    "city": "Spokane",
+    "latitude": 47.665819,
+    "longitude": -117.21699
+  },
+  {
+    "zip": 99217,
+    "city": "Spokane",
+    "latitude": 47.707542,
+    "longitude": -117.33776
+  },
+  {
+    "zip": 99218,
+    "city": "Spokane",
+    "latitude": 47.751674,
+    "longitude": -117.4124
+  },
+  {
+    "zip": 99219,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99220,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99223,
+    "city": "Spokane",
+    "latitude": 47.614744,
+    "longitude": -117.35892
+  },
+  {
+    "zip": 99224,
+    "city": "Spokane",
+    "latitude": 47.632573,
+    "longitude": -117.49326
+  },
+  {
+    "zip": 99228,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99251,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99252,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99256,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99258,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99260,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99299,
+    "city": "Spokane",
+    "latitude": 47.653568,
+    "longitude": -117.431742
+  },
+  {
+    "zip": 99301,
+    "city": "Pasco",
+    "latitude": 46.270249,
+    "longitude": -119.09462
+  },
+  {
+    "zip": 99302,
+    "city": "Pasco",
+    "latitude": 46.234957,
+    "longitude": -119.094271
+  },
+  {
+    "zip": 99309,
+    "city": "Mattawa",
+    "latitude": 46.731046,
+    "longitude": -119.901931
+  },
+  {
+    "zip": 99319,
+    "city": "Desert Aire",
+    "latitude": 46.68039,
+    "longitude": -119.911288
+  },
+  {
+    "zip": 99320,
+    "city": "Benton City",
+    "latitude": 46.263399,
+    "longitude": -119.47909
+  },
+  {
+    "zip": 99321,
+    "city": "Beverly",
+    "latitude": 46.834349,
+    "longitude": -119.93088
+  },
+  {
+    "zip": 99322,
+    "city": "Bickleton",
+    "latitude": 45.963054,
+    "longitude": -120.25547
+  },
+  {
+    "zip": 99323,
+    "city": "Burbank",
+    "latitude": 46.191158,
+    "longitude": -118.87987
+  },
+  {
+    "zip": 99324,
+    "city": "College Place",
+    "latitude": 46.044936,
+    "longitude": -118.38466
+  },
+  {
+    "zip": 99326,
+    "city": "Connell",
+    "latitude": 46.675704,
+    "longitude": -118.8823
+  },
+  {
+    "zip": 99327,
+    "city": "Cunningham",
+    "latitude": 46.828931,
+    "longitude": -118.829153
+  },
+  {
+    "zip": 99328,
+    "city": "Dayton",
+    "latitude": 46.319087,
+    "longitude": -117.96887
+  },
+  {
+    "zip": 99329,
+    "city": "Dixie",
+    "latitude": 46.138753,
+    "longitude": -118.15325
+  },
+  {
+    "zip": 99330,
+    "city": "Eltopia",
+    "latitude": 46.467186,
+    "longitude": -119.06888
+  },
+  {
+    "zip": 99332,
+    "city": "Hatton",
+    "latitude": 46.776386,
+    "longitude": -118.82892
+  },
+  {
+    "zip": 99333,
+    "city": "Hooper",
+    "latitude": 46.838747,
+    "longitude": -117.644337
+  },
+  {
+    "zip": 99335,
+    "city": "Kahlotus",
+    "latitude": 46.648121,
+    "longitude": -118.55652
+  },
+  {
+    "zip": 99336,
+    "city": "Kennewick",
+    "latitude": 46.210957,
+    "longitude": -119.16369
+  },
+  {
+    "zip": 99337,
+    "city": "Kennewick",
+    "latitude": 46.169982,
+    "longitude": -119.10456
+  },
+  {
+    "zip": 99338,
+    "city": "Kennewick",
+    "latitude": 46.192356,
+    "longitude": -119.23982
+  },
+  {
+    "zip": 99341,
+    "city": "Lind",
+    "latitude": 46.912194,
+    "longitude": -118.63676
+  },
+  {
+    "zip": 99343,
+    "city": "Mesa",
+    "latitude": 46.581454,
+    "longitude": -119.12107
+  },
+  {
+    "zip": 99344,
+    "city": "Othello",
+    "latitude": 46.843397,
+    "longitude": -119.17443
+  },
+  {
+    "zip": 99345,
+    "city": "Paterson",
+    "latitude": 45.922025,
+    "longitude": -119.67687
+  },
+  {
+    "zip": 99346,
+    "city": "Plymouth",
+    "latitude": 45.960734,
+    "longitude": -119.35637
+  },
+  {
+    "zip": 99347,
+    "city": "Pomeroy",
+    "latitude": 46.44754,
+    "longitude": -117.57295
+  },
+  {
+    "zip": 99348,
+    "city": "Prescott",
+    "latitude": 46.408852,
+    "longitude": -118.44876
+  },
+  {
+    "zip": 99349,
+    "city": "Mattawa",
+    "latitude": 46.726526,
+    "longitude": -119.8857
+  },
+  {
+    "zip": 99350,
+    "city": "Prosser",
+    "latitude": 46.208571,
+    "longitude": -119.74507
+  },
+  {
+    "zip": 99352,
+    "city": "Richland",
+    "latitude": 46.279657,
+    "longitude": -119.28137
+  },
+  {
+    "zip": 99353,
+    "city": "West Richland",
+    "latitude": 46.297139,
+    "longitude": -119.35457
+  },
+  {
+    "zip": 99356,
+    "city": "Roosevelt",
+    "latitude": 45.816528,
+    "longitude": -120.28372
+  },
+  {
+    "zip": 99357,
+    "city": "Royal City",
+    "latitude": 46.922079,
+    "longitude": -119.67175
+  },
+  {
+    "zip": 99359,
+    "city": "Starbuck",
+    "latitude": 46.523206,
+    "longitude": -118.19393
+  },
+  {
+    "zip": 99360,
+    "city": "Touchet",
+    "latitude": 46.059286,
+    "longitude": -118.67264
+  },
+  {
+    "zip": 99361,
+    "city": "Waitsburg",
+    "latitude": 46.209202,
+    "longitude": -118.15884
+  },
+  {
+    "zip": 99363,
+    "city": "Wallula",
+    "latitude": 46.059013,
+    "longitude": -118.88468
+  },
+  {
+    "zip": 99371,
+    "city": "Washtucna",
+    "latitude": 46.782783,
+    "longitude": -118.2869
+  },
+  {
+    "zip": 99401,
+    "city": "Anatone",
+    "latitude": 46.086657,
+    "longitude": -117.2491
+  },
+  {
+    "zip": 99402,
+    "city": "Asotin",
+    "latitude": 46.230508,
+    "longitude": -117.12916
+  },
+  {
+    "zip": 99403,
+    "city": "Clarkston",
+    "latitude": 46.400365,
+    "longitude": -117.08313
+  },
+  {
+    "zip": 99536,
+    "city": "Kennewick",
+    "latitude": 46.216706,
+    "longitude": -119.160173
+  }
+]
