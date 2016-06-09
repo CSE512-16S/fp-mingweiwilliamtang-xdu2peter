@@ -31,7 +31,7 @@ Access our visualization at [http://cse512-16s.github.io/fp-mingweiwilliamtang-x
 ###Link to poster: [https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter/blob/master/poster-mingwt-xdu2.pdf](https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter/blob/master/poster-mingwt-xdu2.pdf)
 ![summary](https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter/blob/master/poster-mingwt-xdu2.pdf)
 
-###Link to report:
+###Link to paper: [https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter/blob/master/paper-mingwt-xdu2.pdf](https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter/blob/master/paper-mingwt-xdu2.pdf)
 
 ## Development Process
 Our group delegated tasking on the major components of our visualization to the two members, but we spent a lot of time coding all together in the office. 
