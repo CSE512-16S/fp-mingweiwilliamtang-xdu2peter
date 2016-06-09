@@ -28,6 +28,11 @@ Access our visualization at [http://cse512-16s.github.io/fp-mingweiwilliamtang-x
 * <b>Click on the histogram</b> to discover more infomation of the Washington State housing price.
 * and more...
 
+###Link to poster:
+https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter/poster-mingwt-xdu2.pdf
+
+###Link to report:
+
 ## Development Process
 Our group delegated tasking on the major components of our visualization to the two members, but we spent a lot of time coding all together in the office. 
 
