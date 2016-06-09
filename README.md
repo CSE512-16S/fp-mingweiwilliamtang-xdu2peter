@@ -29,7 +29,7 @@ Access our visualization at [http://cse512-16s.github.io/fp-mingweiwilliamtang-x
 * and more...
 
 ###Link to poster:
-https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter/poster-mingwt-xdu2.pdf
+![summary](https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter/blob/master/poster-mingwt-xdu2.pdf)
 
 ###Link to report:
 
