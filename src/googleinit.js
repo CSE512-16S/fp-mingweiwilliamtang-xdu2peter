@@ -213,7 +213,7 @@ for (var i = 0; i < locations.length; i++) {
 
 }
 
-google.maps.event.addDomListener(window, 'load',   d3.json("/dat/WA_zip.json", initialize) );
+google.maps.event.addDomListener(window, 'load',   d3.json("/fp-mingweiwilliamtang-xdu2peter/dat/WA_zip.json", initialize) );
 
 
 

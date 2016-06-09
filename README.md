@@ -20,7 +20,7 @@ The data we use comes fromt the Zillow Research website: [http://www.zillow.com/
 
 ### Running Instructions
 
-Access our visualization at [https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter](https://github.com/CSE512-16S/fp-mingweiwilliamtang-xdu2peter) or download this repository and run `python -m SimpleHTTPServer 8000` and access this from http://localhost:8000/.
+Access our visualization at [http://cse512-16s.github.io/fp-mingweiwilliamtang-xdu2peter/](http://cse512-16s.github.io/fp-mingweiwilliamtang-xdu2peter/) or download this repository and run `python -m SimpleHTTPServer 8000` and access this from http://localhost:8000/.
 
 ###Overview of Major Interactions:
 * <b>Click an arrow</b> to explore more at a particular location. 
